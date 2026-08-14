@@ -119,7 +119,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 * [red-datasets](https://github.com/red-data-tools/red-datasets) ⭐ 33 | 🐛 75 | 🌐 Ruby | 📅 2026-07-08 —
   Growing collection of publicly available data sets such as CIFAR-10, Iris, MNIST etc.
 * [rdatasets](https://github.com/kojix2/rdatasets) ⚠️ Archived —
-  Data sets available in R via [Rdatasets](https://github.com/vincentarelbundock/Rdatasets) ⭐ 412 | 🐛 0 | 🌐 HTML | 📅 2026-06-15.
+  Data sets available in R via [Rdatasets](https://github.com/vincentarelbundock/Rdatasets) ⭐ 413 | 🐛 0 | 🌐 HTML | 📅 2026-06-15.
 
 ## Statistics
 
@@ -163,7 +163,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 
 Comprehensive tools for Data Visualization.
 
-* [chartkick](https://github.com/ankane/chartkick) ⭐ 6,527 | 🐛 7 | 🌐 Ruby | 📅 2026-06-29 —
+* [chartkick](https://github.com/ankane/chartkick) ⭐ 6,528 | 🐛 7 | 🌐 Ruby | 📅 2026-06-29 —
   Create beautiful JavaScript charts with one line of Ruby.
 * [Gruff](https://github.com/topfunky/gruff) ⭐ 1,397 | 🐛 14 | 🌐 Ruby | 📅 2026-07-28 —
   graphing library built on top of [rmagick](https://github.com/rmagick/rmagick) ⭐ 731 | 🐛 4 | 🌐 C++ | 📅 2026-08-06.
@@ -192,7 +192,7 @@ Comprehensive tools for Data Visualization.
 * [gnuplotrb](https://github.com/SciRuby/gnuplotrb) ⭐ 29 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2020-04-06
 * [Nyaplotjs](https://github.com/domitry/Nyaplotjs) ⭐ 21 | 🐛 3 | 🌐 JavaScript | 📅 2015-12-29
 * [iruby-chartkick](https://github.com/Absolventa/iruby-chartkick) ⭐ 18 | 🐛 2 | 🌐 Ruby | 📅 2026-06-13 —
-  Use [chartkick](https://github.com/ankane/chartkick) ⭐ 6,527 | 🐛 7 | 🌐 Ruby | 📅 2026-06-29 within IRuby-backed jupyter notebooks
+  Use [chartkick](https://github.com/ankane/chartkick) ⭐ 6,528 | 🐛 7 | 🌐 Ruby | 📅 2026-06-29 within IRuby-backed jupyter notebooks
 * <https://github.com/brasten/scruffy> ⭐ 15 | 🐛 3 | 🌐 Ruby | 📅 2011-01-01
 * [benchmark-plot](https://github.com/v0dro/benchmark-plot) ⭐ 7 | 🐛 0 | 🌐 Ruby | 📅 2016-07-10
 * [daru-plotly](https://github.com/genya0407/daru-plotly) ⭐ 3 | 🐛 2 | 🌐 Ruby | 📅 2017-05-22 —
@@ -212,7 +212,7 @@ Comprehensive tools for Data Visualization.
 
 ### General formats
 
-* [oj](https://github.com/ohler55/oj) ⭐ 3,225 | 🐛 14 | 🌐 C | 📅 2026-08-10 —
+* [oj](https://github.com/ohler55/oj) ⭐ 3,225 | 🐛 13 | 🌐 C | 📅 2026-08-13 —
   High-speed JSON parser.
 * [ox](https://github.com/ohler55/ox) ⭐ 913 | 🐛 3 | 🌐 C | 📅 2026-08-08 —
   Optimized for speed XML parser and object marshaller.
@@ -282,7 +282,7 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
 
 * [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,532 | 🐛 2 | 📅 2026-07-31 -
   awesome curated list on all around Big Data.
-* [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,648 | 🐛 0 | 📅 2026-08-11
+* [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,647 | 🐛 0 | 📅 2026-08-11
 * [Awesome Spark](https://github.com/awesome-spark/awesome-spark) ⭐ 1,890 | 🐛 24 | 🌐 Shell | 📅 2026-02-27 —
   awesome list on Apache Spark goodies.
 * <a name="symengine"></a>
@@ -333,4 +333,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
