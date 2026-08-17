@@ -168,7 +168,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-16T12:35:55Z",
+            "last_commit": "2026-08-17T13:24:20Z",
             "owner": "sonots",
             "repo": "cumo",
             "stars": 99
@@ -969,7 +969,7 @@
             "last_commit": "2026-07-31T12:51:12Z",
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14534
+            "stars": 14532
           }
         },
         {
@@ -1029,7 +1029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T14:01:54.365Z",
+    "last_updated": "2026-08-17T14:12:15.649Z",
     "original_repository": "arbox/data-science-with-ruby",
     "original_repository_sha": "e8802c9dabe70d3320c465d760377b6b1ec4321e",
     "enhanced_repository": "enhansome/enhansome-data-science-with-ruby",
