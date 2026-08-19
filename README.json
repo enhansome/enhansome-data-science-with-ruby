@@ -174,7 +174,7 @@
             "archived": false,
             "id": 110840073,
             "language": "C",
-            "last_commit": "2026-08-19T11:07:54Z",
+            "last_commit": "2026-08-19T14:11:41Z",
             "owner": "sonots",
             "repo": "cumo",
             "stars": 99
@@ -1072,7 +1072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:25:22.186Z",
+    "last_updated": "2026-08-19T14:18:22.685Z",
     "original_repository": "arbox/data-science-with-ruby",
     "original_repository_id": 88170991,
     "original_repository_sha": "e8802c9dabe70d3320c465d760377b6b1ec4321e",
