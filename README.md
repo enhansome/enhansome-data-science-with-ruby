@@ -1,7 +1,7 @@
 <img src="header.png" align="center">
 
 \[[RubyNLP](https://github.com/arbox/nlp-with-ruby) ⭐ 1,076 | 🐛 7 | 🌐 Ruby | 📅 2023-06-27 |
-[RubyML](https://github.com/arbox/machine-learning-with-ruby) ⭐ 2,220 | 🐛 6 | 🌐 Ruby | 📅 2024-12-26 |
+[RubyML](https://github.com/arbox/machine-learning-with-ruby) ⭐ 2,221 | 🐛 6 | 🌐 Ruby | 📅 2024-12-26 |
 [RubyInterop](https://github.com/arbox/ruby-interoperability) ⭐ 41 | 🐛 1 | 🌐 Ruby | 📅 2020-11-16]
 
 # Awesome Data Science with Ruby with stars
@@ -74,7 +74,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 
 <!--- TODO: Add the talk by @mrkn --->
 
-* [pycall](https://github.com/mrkn/pycall.rb) ⭐ 1,116 | 🐛 51 | 🌐 C | 📅 2026-07-27 — Bridge into the Python world.
+* [pycall](https://github.com/mrkn/pycall.rb) ⭐ 1,116 | 🐛 54 | 🌐 C | 📅 2026-08-20 — Bridge into the Python world.
 * [rserve-client](https://github.com/clbustos/Rserve-Ruby-client) ⭐ 130 | 🐛 13 | 🌐 Ruby | 📅 2024-05-03 —
   Ruby connector for [Rserve](http://www.rforge.net/Rserve/), R's binary server.
 
@@ -106,7 +106,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
   Data Frame and Vector structures with comprehensive manipulating and visualization methods.
 * [kdtree](https://github.com/gurgeous/kdtree) ⭐ 126 | 🐛 0 | 🌐 C | 📅 2025-05-01 —
   blazingly fast native 2d k-d tree.
-* [cumo](https://github.com/sonots/cumo) ⭐ 99 | 🐛 8 | 🌐 C | 📅 2026-08-19 —
+* [cumo](https://github.com/sonots/cumo) ⭐ 99 | 🐛 5 | 🌐 C | 📅 2026-08-20 —
   CUDA-aware numerical Array library with [NArray](https://github.com/ruby-numo/numo-narray) ⭐ 469 | 🐛 63 | 🌐 C | 📅 2025-06-06 similar interface.
 * [mdarray](https://github.com/rbotafogo/mdarray) ⭐ 36 | 🐛 3 | 🌐 Ruby | 📅 2017-03-31 —
   Array structure for `JRuby`.
@@ -166,7 +166,7 @@ Comprehensive tools for Data Visualization.
 * [chartkick](https://github.com/ankane/chartkick) ⭐ 6,528 | 🐛 7 | 🌐 Ruby | 📅 2026-08-15 —
   Create beautiful JavaScript charts with one line of Ruby.
 * [Gruff](https://github.com/topfunky/gruff) ⭐ 1,398 | 🐛 14 | 🌐 Ruby | 📅 2026-07-28 —
-  graphing library built on top of [rmagick](https://github.com/rmagick/rmagick) ⭐ 731 | 🐛 4 | 🌐 C++ | 📅 2026-08-06.
+  graphing library built on top of [rmagick](https://github.com/rmagick/rmagick) ⭐ 731 | 🐛 4 | 🌐 C++ | 📅 2026-08-19.
 * [ruby-graphviz](https://github.com/glejeune/Ruby-Graphviz) ⭐ 616 | 🐛 40 | 🌐 Ruby | 📅 2025-03-16 <sup>\[[dep: Graphviz](#graphviz)]</sup>
 * [Vega](https://github.com/ankane/vega) ⭐ 302 | 🐛 0 | 🌐 Ruby | 📅 2026-05-11 —
   [Vega](https://vega.github.io/vega/) and [Vega-lite](https://vega.github.io/vega-lite/)
@@ -280,9 +280,9 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
 
 ## Related resources
 
-* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,532 | 🐛 2 | 📅 2026-07-31 -
+* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,535 | 🐛 3 | 📅 2026-07-31 -
   awesome curated list on all around Big Data.
-* [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,650 | 🐛 0 | 📅 2026-08-11
+* [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,653 | 🐛 0 | 📅 2026-08-11
 * [Awesome Spark](https://github.com/awesome-spark/awesome-spark) ⭐ 1,890 | 🐛 24 | 🌐 Shell | 📅 2026-02-27 —
   awesome list on Apache Spark goodies.
 * <a name="symengine"></a>
@@ -333,4 +333,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
