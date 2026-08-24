@@ -106,7 +106,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
   Data Frame and Vector structures with comprehensive manipulating and visualization methods.
 * [kdtree](https://github.com/gurgeous/kdtree) ⭐ 126 | 🐛 0 | 🌐 C | 📅 2025-05-01 —
   blazingly fast native 2d k-d tree.
-* [cumo](https://github.com/sonots/cumo) ⭐ 99 | 🐛 5 | 🌐 C | 📅 2026-08-23 —
+* [cumo](https://github.com/sonots/cumo) ⭐ 99 | 🐛 6 | 🌐 C | 📅 2026-08-24 —
   CUDA-aware numerical Array library with [NArray](https://github.com/ruby-numo/numo-narray) ⭐ 469 | 🐛 63 | 🌐 C | 📅 2025-06-06 similar interface.
 * [mdarray](https://github.com/rbotafogo/mdarray) ⭐ 36 | 🐛 3 | 🌐 Ruby | 📅 2017-03-31 —
   Array structure for `JRuby`.
@@ -116,7 +116,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 
 ## Data sets
 
-* [red-datasets](https://github.com/red-data-tools/red-datasets) ⭐ 33 | 🐛 75 | 🌐 Ruby | 📅 2026-07-08 —
+* [red-datasets](https://github.com/red-data-tools/red-datasets) ⭐ 33 | 🐛 75 | 🌐 Ruby | 📅 2026-08-24 —
   Growing collection of publicly available data sets such as CIFAR-10, Iris, MNIST etc.
 * [rdatasets](https://github.com/kojix2/rdatasets) ⚠️ Archived —
   Data sets available in R via [Rdatasets](https://github.com/vincentarelbundock/Rdatasets) ⭐ 414 | 🐛 0 | 🌐 HTML | 📅 2026-06-15.
@@ -201,7 +201,7 @@ Comprehensive tools for Data Visualization.
 
 ## Interactive Computing
 
-* [iruby](https://github.com/sciruby/iruby) ⭐ 923 | 🐛 49 | 🌐 Ruby | 📅 2026-06-30 —
+* [iruby](https://github.com/sciruby/iruby) ⭐ 924 | 🐛 49 | 🌐 Ruby | 📅 2026-06-30 —
   Ruby kernel for [Jupyter](https://jupyter.org/).
 * [jupyter\_on\_rails](https://github.com/Yuki-Inoue/jupyter_on_rails/) ⭐ 88 | 🐛 11 | 🌐 Ruby | 📅 2024-03-19 —
   Another integration library for IRuby and Rails.
@@ -280,10 +280,10 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
 
 ## Related resources
 
-* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,540 | 🐛 3 | 📅 2026-07-31 -
+* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,541 | 🐛 3 | 📅 2026-07-31 -
   awesome curated list on all around Big Data.
 * [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,656 | 🐛 0 | 📅 2026-08-11
-* [Awesome Spark](https://github.com/awesome-spark/awesome-spark) ⭐ 1,890 | 🐛 24 | 🌐 Shell | 📅 2026-02-27 —
+* [Awesome Spark](https://github.com/awesome-spark/awesome-spark) ⭐ 1,891 | 🐛 24 | 🌐 Shell | 📅 2026-02-27 —
   awesome list on Apache Spark goodies.
 * <a name="symengine"></a>
   [SymEngine](https://github.com/symengine/symengine) ⭐ 1,401 | 🐛 258 | 🌐 C++ | 📅 2026-08-20
@@ -333,4 +333,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

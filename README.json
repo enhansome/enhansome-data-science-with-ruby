@@ -174,7 +174,7 @@
             "archived": false,
             "id": 110840073,
             "language": "C",
-            "last_commit": "2026-08-23T10:03:32Z",
+            "last_commit": "2026-08-24T12:07:43Z",
             "owner": "sonots",
             "repo": "cumo",
             "stars": 99
@@ -225,7 +225,7 @@
             "archived": false,
             "id": 100153342,
             "language": "Ruby",
-            "last_commit": "2026-07-08T14:42:03Z",
+            "last_commit": "2026-08-24T05:50:09Z",
             "owner": "red-data-tools",
             "repo": "red-datasets",
             "stars": 33
@@ -837,7 +837,7 @@
             "last_commit": "2026-06-30T01:27:30Z",
             "owner": "SciRuby",
             "repo": "iruby",
-            "stars": 923
+            "stars": 924
           }
         },
         {
@@ -1019,7 +1019,7 @@
             "last_commit": "2026-07-31T12:51:12Z",
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14540
+            "stars": 14541
           }
         },
         {
@@ -1049,7 +1049,7 @@
             "last_commit": "2026-02-27T08:06:58Z",
             "owner": "awesome-spark",
             "repo": "awesome-spark",
-            "stars": 1890
+            "stars": 1891
           }
         },
         {
@@ -1072,7 +1072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:02:58.426Z",
+    "last_updated": "2026-08-24T14:22:35.144Z",
     "original_repository": "arbox/data-science-with-ruby",
     "original_repository_id": 88170991,
     "original_repository_sha": "e8802c9dabe70d3320c465d760377b6b1ec4321e",
