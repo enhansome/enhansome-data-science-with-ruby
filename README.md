@@ -1,7 +1,7 @@
 <img src="header.png" align="center">
 
 \[[RubyNLP](https://github.com/arbox/nlp-with-ruby) ⭐ 1,076 | 🐛 7 | 🌐 Ruby | 📅 2023-06-27 |
-[RubyML](https://github.com/arbox/machine-learning-with-ruby) ⭐ 2,221 | 🐛 6 | 🌐 Ruby | 📅 2024-12-26 |
+[RubyML](https://github.com/arbox/machine-learning-with-ruby) ⭐ 2,222 | 🐛 6 | 🌐 Ruby | 📅 2024-12-26 |
 [RubyInterop](https://github.com/arbox/ruby-interoperability) ⭐ 41 | 🐛 1 | 🌐 Ruby | 📅 2020-11-16]
 
 # Awesome Data Science with Ruby with stars
@@ -106,7 +106,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
   Data Frame and Vector structures with comprehensive manipulating and visualization methods.
 * [kdtree](https://github.com/gurgeous/kdtree) ⭐ 126 | 🐛 0 | 🌐 C | 📅 2025-05-01 —
   blazingly fast native 2d k-d tree.
-* [cumo](https://github.com/sonots/cumo) ⭐ 99 | 🐛 6 | 🌐 C | 📅 2026-08-24 —
+* [cumo](https://github.com/sonots/cumo) ⭐ 99 | 🐛 5 | 🌐 C | 📅 2026-08-25 —
   CUDA-aware numerical Array library with [NArray](https://github.com/ruby-numo/numo-narray) ⭐ 469 | 🐛 63 | 🌐 C | 📅 2025-06-06 similar interface.
 * [mdarray](https://github.com/rbotafogo/mdarray) ⭐ 36 | 🐛 3 | 🌐 Ruby | 📅 2017-03-31 —
   Array structure for `JRuby`.
@@ -166,7 +166,7 @@ Comprehensive tools for Data Visualization.
 * [chartkick](https://github.com/ankane/chartkick) ⭐ 6,528 | 🐛 7 | 🌐 Ruby | 📅 2026-08-15 —
   Create beautiful JavaScript charts with one line of Ruby.
 * [Gruff](https://github.com/topfunky/gruff) ⭐ 1,398 | 🐛 14 | 🌐 Ruby | 📅 2026-07-28 —
-  graphing library built on top of [rmagick](https://github.com/rmagick/rmagick) ⭐ 731 | 🐛 4 | 🌐 C++ | 📅 2026-08-19.
+  graphing library built on top of [rmagick](https://github.com/rmagick/rmagick) ⭐ 731 | 🐛 4 | 🌐 C++ | 📅 2026-08-25.
 * [ruby-graphviz](https://github.com/glejeune/Ruby-Graphviz) ⭐ 615 | 🐛 40 | 🌐 Ruby | 📅 2025-03-16 <sup>\[[dep: Graphviz](#graphviz)]</sup>
 * [Vega](https://github.com/ankane/vega) ⭐ 302 | 🐛 0 | 🌐 Ruby | 📅 2026-05-11 —
   [Vega](https://vega.github.io/vega/) and [Vega-lite](https://vega.github.io/vega-lite/)
@@ -180,10 +180,10 @@ Comprehensive tools for Data Visualization.
   daru-view is interactive plotting gem for web application
   (any Ruby web application framework like Rails/Sinatra/Nanoc/Hanami) & IRuby notebook.
   It is a plugin gem for daru.
+* [ruby-gr](https://github.com/red-data-tools/GR.rb) ⭐ 98 | 🐛 9 | 🌐 Ruby | 📅 2026-06-23 —
+  Ruby interface to [GR](https://gr-framework.org/), a framework for visualisation applications. <sup>\[[dep: GR](#gr)]</sup>
 * [matplotlib](https://github.com/mrkn/matplotlib.rb) ⭐ 97 | 🐛 8 | 🌐 Ruby | 📅 2023-03-16 —
   Ruby based wrapper around [matplotlib](https://matplotlib.org/). <sup>\[[dep: matplotlib](#matplotlib)]</sup>
-* [ruby-gr](https://github.com/red-data-tools/GR.rb) ⭐ 97 | 🐛 9 | 🌐 Ruby | 📅 2026-06-23 —
-  Ruby interface to [GR](https://gr-framework.org/), a framework for visualisation applications. <sup>\[[dep: GR](#gr)]</sup>
 * [Rubyplot](https://github.com/SciRuby/rubyplot) ⭐ 64 | 🐛 24 | 🌐 Jupyter Notebook | 📅 2022-06-18 —
   graphing library built on top of [GR](https://gr-framework.org).
 * [numo-gnuplot](https://github.com/ruby-numo/numo-gnuplot) ⭐ 54 | 🐛 5 | 🌐 Ruby | 📅 2022-10-08 —
@@ -280,10 +280,10 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
 
 ## Related resources
 
-* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,541 | 🐛 3 | 📅 2026-07-31 -
+* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,542 | 🐛 3 | 📅 2026-07-31 -
   awesome curated list on all around Big Data.
-* [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,656 | 🐛 0 | 📅 2026-08-11
-* [Awesome Spark](https://github.com/awesome-spark/awesome-spark) ⭐ 1,891 | 🐛 24 | 🌐 Shell | 📅 2026-02-27 —
+* [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,658 | 🐛 0 | 📅 2026-08-11
+* [Awesome Spark](https://github.com/awesome-spark/awesome-spark) ⭐ 1,892 | 🐛 24 | 🌐 Shell | 📅 2026-02-27 —
   awesome list on Apache Spark goodies.
 * <a name="symengine"></a>
   [SymEngine](https://github.com/symengine/symengine) ⭐ 1,401 | 🐛 258 | 🌐 C++ | 📅 2026-08-20
@@ -333,4 +333,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

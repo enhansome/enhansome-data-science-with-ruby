@@ -174,7 +174,7 @@
             "archived": false,
             "id": 110840073,
             "language": "C",
-            "last_commit": "2026-08-24T12:07:43Z",
+            "last_commit": "2026-08-25T01:00:31Z",
             "owner": "sonots",
             "repo": "cumo",
             "stars": 99
@@ -566,7 +566,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/zverok/worldize",
+          "title": "zverok/worldize",
           "description": null,
           "children": [],
           "repo_info": {
@@ -641,21 +641,6 @@
         },
         {
           "node_type": "item",
-          "title": "matplotlib",
-          "description": "Ruby based wrapper around matplotlib. [dep: matplotlib]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 70077155,
-            "language": "Ruby",
-            "last_commit": "2023-03-16T17:18:33Z",
-            "owner": "red-data-tools",
-            "repo": "matplotlib.rb",
-            "stars": 97
-          }
-        },
-        {
-          "node_type": "item",
           "title": "ruby-gr",
           "description": "Ruby interface to GR, a framework for visualisation applications. [dep: GR]",
           "children": [],
@@ -666,6 +651,21 @@
             "last_commit": "2026-06-23T00:20:21Z",
             "owner": "red-data-tools",
             "repo": "GR.rb",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "matplotlib",
+          "description": "Ruby based wrapper around matplotlib. [dep: matplotlib]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 70077155,
+            "language": "Ruby",
+            "last_commit": "2023-03-16T17:18:33Z",
+            "owner": "red-data-tools",
+            "repo": "matplotlib.rb",
             "stars": 97
           }
         },
@@ -701,7 +701,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/zuhao/plotrb",
+          "title": "zuhao/plotrb",
           "description": null,
           "children": [],
           "repo_info": {
@@ -761,7 +761,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/brasten/scruffy",
+          "title": "brasten/scruffy",
           "description": null,
           "children": [],
           "repo_info": {
@@ -806,7 +806,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/masa16/ruby-mathgl",
+          "title": "masa16/ruby-mathgl",
           "description": null,
           "children": [],
           "repo_info": {
@@ -958,7 +958,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/k1LoW/awspec",
+          "title": "k1LoW/awspec",
           "description": null,
           "children": [],
           "repo_info": {
@@ -973,7 +973,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mrkn/gpu-instance",
+          "title": "mrkn/gpu-instance",
           "description": null,
           "children": [],
           "repo_info": {
@@ -988,7 +988,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mrkn/computing_node",
+          "title": "mrkn/computing_node",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1019,7 +1019,7 @@
             "last_commit": "2026-07-31T12:51:12Z",
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14541
+            "stars": 14542
           }
         },
         {
@@ -1034,7 +1034,7 @@
             "last_commit": "2026-08-11T21:22:52Z",
             "owner": "r0f1",
             "repo": "datascience",
-            "stars": 4656
+            "stars": 4658
           }
         },
         {
@@ -1049,7 +1049,7 @@
             "last_commit": "2026-02-27T08:06:58Z",
             "owner": "awesome-spark",
             "repo": "awesome-spark",
-            "stars": 1891
+            "stars": 1892
           }
         },
         {
@@ -1072,7 +1072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:49:16.198Z",
+    "last_updated": "2026-08-25T06:12:15.671Z",
     "original_repository": "arbox/data-science-with-ruby",
     "original_repository_id": 88170991,
     "original_repository_sha": "e8802c9dabe70d3320c465d760377b6b1ec4321e",
