@@ -174,7 +174,7 @@
             "archived": false,
             "id": 110840073,
             "language": "C",
-            "last_commit": "2026-08-26T12:48:28Z",
+            "last_commit": "2026-08-26T15:46:08Z",
             "owner": "sonots",
             "repo": "cumo",
             "stars": 99
@@ -1019,7 +1019,7 @@
             "last_commit": "2026-07-31T12:51:12Z",
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14583
+            "stars": 14594
           }
         },
         {
@@ -1061,7 +1061,7 @@
             "archived": false,
             "id": 42376,
             "language": "C++",
-            "last_commit": "2026-08-26T14:09:33Z",
+            "last_commit": "2026-08-26T18:36:55Z",
             "owner": "symengine",
             "repo": "symengine",
             "stars": 1402
@@ -1072,9 +1072,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:28:41.152Z",
-    "original_repository": "arbox/data-science-with-ruby",
-    "original_repository_id": 88170991,
+    "last_updated": "2026-08-27T11:33:18.898Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 88170991,
+      "language": "Ruby",
+      "last_commit": "2023-07-19T13:51:33Z",
+      "owner": "arbox",
+      "repo": "data-science-with-ruby",
+      "stars": 720
+    },
     "original_repository_sha": "e8802c9dabe70d3320c465d760377b6b1ec4321e",
     "enhanced_repository": "enhansome/enhansome-data-science-with-ruby",
     "enhanced_repository_description": null,
