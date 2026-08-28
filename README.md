@@ -106,7 +106,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
   Data Frame and Vector structures with comprehensive manipulating and visualization methods.
 * [kdtree](https://github.com/gurgeous/kdtree) ⭐ 126 | 🐛 0 | 🌐 C | 📅 2025-05-01 —
   blazingly fast native 2d k-d tree.
-* [cumo](https://github.com/sonots/cumo) ⭐ 99 | 🐛 5 | 🌐 C | 📅 2026-08-27 —
+* [cumo](https://github.com/sonots/cumo) ⭐ 99 | 🐛 6 | 🌐 C | 📅 2026-08-28 —
   CUDA-aware numerical Array library with [NArray](https://github.com/ruby-numo/numo-narray) ⭐ 469 | 🐛 63 | 🌐 C | 📅 2025-06-06 similar interface.
 * [mdarray](https://github.com/rbotafogo/mdarray) ⭐ 36 | 🐛 3 | 🌐 Ruby | 📅 2017-03-31 —
   Array structure for `JRuby`.
@@ -153,7 +153,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 * [numo-linalg](https://github.com/ruby-numo/numo-linalg) ⭐ 44 | 🐛 11 | 🌐 Ruby | 📅 2025-08-25 —
   linear algebraic operations for NArray.
 * [symengine](https://github.com/symengine/symengine.rb) ⭐ 29 | 🐛 19 | 🌐 C | 📅 2019-03-14 —
-  Symbolic Computation with [SymEngine](https://github.com/symengine/symengine) ⭐ 1,403 | 🐛 250 | 🌐 C++ | 📅 2026-08-27.
+  Symbolic Computation with [SymEngine](https://github.com/symengine/symengine) ⭐ 1,403 | 🐛 252 | 🌐 C++ | 📅 2026-08-27.
 * [numo-gsl](https://github.com/ruby-numo/numo-gsl) ⭐ 23 | 🐛 4 | 🌐 Ruby | 📅 2024-06-07 —
   Math and Statistics for NArray using GSL.<sup>\[[dep: GSL](#gsl)]</sup>
 * [numo-ffte](https://github.com/ruby-numo/numo-ffte) ⭐ 5 | 🐛 0 | 🌐 C | 📅 2018-01-18 —
@@ -280,13 +280,13 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
 
 ## Related resources
 
-* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,598 | 🐛 4 | 📅 2026-07-31 -
+* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,600 | 🐛 4 | 📅 2026-07-31 -
   awesome curated list on all around Big Data.
 * [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,658 | 🐛 0 | 📅 2026-08-11
-* [Awesome Spark](https://github.com/awesome-spark/awesome-spark) ⭐ 1,892 | 🐛 24 | 🌐 Shell | 📅 2026-02-27 —
+* [Awesome Spark](https://github.com/awesome-spark/awesome-spark) ⭐ 1,893 | 🐛 24 | 🌐 Shell | 📅 2026-02-27 —
   awesome list on Apache Spark goodies.
 * <a name="symengine"></a>
-  [SymEngine](https://github.com/symengine/symengine) ⭐ 1,403 | 🐛 250 | 🌐 C++ | 📅 2026-08-27
+  [SymEngine](https://github.com/symengine/symengine) ⭐ 1,403 | 🐛 252 | 🌐 C++ | 📅 2026-08-27
 * <a name="imagemagic"></a>
   [ImageMagick](https://imagemagick.org/index.php)
 * <a name="gsl"></a>
@@ -333,4 +333,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

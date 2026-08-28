@@ -16,7 +16,8 @@
             "owner": "red-data-tools",
             "repo": "pycall.rb",
             "stars": 1116
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "clbustos",
             "repo": "Rserve-Ruby-client",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         }
       ],
       "title": "Standing on the shoulders of giants"
@@ -52,7 +54,8 @@
             "owner": "ondra-m",
             "repo": "ruby-spark",
             "stars": 226
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "chyh1990",
             "repo": "jruby-spark",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         }
       ],
       "title": "Distributed Computing"
@@ -88,7 +92,8 @@
             "owner": "zdavatz",
             "repo": "spreadsheet",
             "stars": 1150
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -103,7 +108,8 @@
             "owner": "SciRuby",
             "repo": "daru",
             "stars": 1061
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -118,7 +124,8 @@
             "owner": "SciRuby",
             "repo": "nmatrix",
             "stars": 478
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "ruby-numo",
             "repo": "numo-narray",
             "stars": 469
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "ankane",
             "repo": "rover",
             "stars": 387
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "gurgeous",
             "repo": "kdtree",
             "stars": 126
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -174,11 +184,12 @@
             "archived": false,
             "id": 110840073,
             "language": "C",
-            "last_commit": "2026-08-27T16:08:15Z",
+            "last_commit": "2026-08-28T22:16:32Z",
             "owner": "sonots",
             "repo": "cumo",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "rbotafogo",
             "repo": "mdarray",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "SciRuby",
             "repo": "networkx.rb",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         }
       ],
       "title": "Data Structures"
@@ -229,7 +242,8 @@
             "owner": "red-data-tools",
             "repo": "red-datasets",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -244,7 +258,8 @@
             "owner": "kojix2",
             "repo": "RDatasets",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         }
       ],
       "title": "Data sets"
@@ -265,7 +280,8 @@
             "owner": "red-data-tools",
             "repo": "enumerable-statistics",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -280,7 +296,8 @@
             "owner": "jtescher",
             "repo": "descriptive-statistics",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -295,7 +312,8 @@
             "owner": "SciRuby",
             "repo": "statsample",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -310,7 +328,8 @@
             "owner": "abscondment",
             "repo": "statistics2",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -325,7 +344,8 @@
             "owner": "Martin-Nyaga",
             "repo": "fast_statistics",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -340,7 +360,8 @@
             "owner": "SciRuby",
             "repo": "distribution",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -355,7 +376,8 @@
             "owner": "blackwinter",
             "repo": "rb-gsl",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -370,7 +392,8 @@
             "owner": "gbuesing",
             "repo": "pca",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -385,7 +408,8 @@
             "owner": "brianhempel",
             "repo": "simple_stats",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -400,7 +424,8 @@
             "owner": "SciRuby",
             "repo": "statsample-glm",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -415,7 +440,8 @@
             "owner": "SciRuby",
             "repo": "statsample-timeseries",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -430,7 +456,8 @@
             "owner": "SciRuby",
             "repo": "statsample-bivariate-extension",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         }
       ],
       "title": "Statistics"
@@ -451,7 +478,8 @@
             "owner": "ruby-numo",
             "repo": "numo-linalg",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -466,7 +494,8 @@
             "owner": "symengine",
             "repo": "symengine.rb",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -481,7 +510,8 @@
             "owner": "ruby-numo",
             "repo": "numo-gsl",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -496,7 +526,8 @@
             "owner": "ruby-numo",
             "repo": "numo-ffte",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         }
       ],
       "title": "Numeric and Symbolic Computation"
@@ -517,7 +548,8 @@
             "owner": "ankane",
             "repo": "chartkick",
             "stars": 6528
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -532,7 +564,8 @@
             "owner": "topfunky",
             "repo": "gruff",
             "stars": 1398
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -547,7 +580,8 @@
             "owner": "glejeune",
             "repo": "Ruby-Graphviz",
             "stars": 615
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -562,7 +596,8 @@
             "owner": "ankane",
             "repo": "vega-ruby",
             "stars": 303
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -577,7 +612,8 @@
             "owner": "zverok",
             "repo": "worldize",
             "stars": 262
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -592,7 +628,8 @@
             "owner": "domitry",
             "repo": "nyaplot",
             "stars": 222
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -607,7 +644,8 @@
             "owner": "rdp",
             "repo": "ruby_gnuplot",
             "stars": 219
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -622,7 +660,8 @@
             "owner": "gjtorikian",
             "repo": "mathematical",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -637,7 +676,8 @@
             "owner": "SciRuby",
             "repo": "daru-view",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -652,7 +692,8 @@
             "owner": "red-data-tools",
             "repo": "GR.rb",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -667,7 +708,8 @@
             "owner": "red-data-tools",
             "repo": "matplotlib.rb",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -682,7 +724,8 @@
             "owner": "SciRuby",
             "repo": "rubyplot",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -697,7 +740,8 @@
             "owner": "ruby-numo",
             "repo": "numo-gnuplot",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -712,7 +756,8 @@
             "owner": "zuhao",
             "repo": "plotrb",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -727,7 +772,8 @@
             "owner": "SciRuby",
             "repo": "gnuplotrb",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -742,7 +788,8 @@
             "owner": "domitry",
             "repo": "Nyaplotjs",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -757,7 +804,8 @@
             "owner": "Absolventa",
             "repo": "iruby-chartkick",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -772,7 +820,8 @@
             "owner": "brasten",
             "repo": "scruffy",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -787,7 +836,8 @@
             "owner": "v0dro",
             "repo": "benchmark-plot",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -802,7 +852,8 @@
             "owner": "genya0407",
             "repo": "daru-plotly",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -817,7 +868,8 @@
             "owner": "masa16",
             "repo": "ruby-mathgl",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         }
       ],
       "title": "Visualization"
@@ -838,7 +890,8 @@
             "owner": "SciRuby",
             "repo": "iruby",
             "stars": 924
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -853,7 +906,8 @@
             "owner": "Yuki-Inoue",
             "repo": "jupyter_on_rails",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -868,7 +922,8 @@
             "owner": "SciRuby",
             "repo": "iruby-rails",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         }
       ],
       "title": "Interactive Computing"
@@ -891,7 +946,8 @@
                 "owner": "ohler55",
                 "repo": "oj",
                 "stars": 3225
-              }
+              },
+              "first_seen": "2026-08-28T23:13:28.879Z"
             },
             {
               "node_type": "item",
@@ -906,7 +962,8 @@
                 "owner": "ohler55",
                 "repo": "ox",
                 "stars": 913
-              }
+              },
+              "first_seen": "2026-08-28T23:13:28.879Z"
             }
           ],
           "description": null,
@@ -928,7 +985,8 @@
                 "owner": "datacite",
                 "repo": "bolognese",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T23:13:28.879Z"
             },
             {
               "node_type": "item",
@@ -943,7 +1001,8 @@
                 "owner": "woodruffw",
                 "repo": "ruby-inih",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:13:28.879Z"
             }
           ],
           "description": null,
@@ -969,7 +1028,8 @@
             "owner": "k1LoW",
             "repo": "awspec",
             "stars": 1176
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -984,7 +1044,8 @@
             "owner": "mrkn",
             "repo": "gpu-instance",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -999,7 +1060,8 @@
             "owner": "mrkn",
             "repo": "computing_node",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         }
       ],
       "title": "Provisioning Infrastructure"
@@ -1019,8 +1081,9 @@
             "last_commit": "2026-07-31T12:51:12Z",
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14598
-          }
+            "stars": 14600
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -1035,7 +1098,8 @@
             "owner": "r0f1",
             "repo": "datascience",
             "stars": 4658
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -1049,8 +1113,9 @@
             "last_commit": "2026-02-27T08:06:58Z",
             "owner": "awesome-spark",
             "repo": "awesome-spark",
-            "stars": 1892
-          }
+            "stars": 1893
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         },
         {
           "node_type": "item",
@@ -1065,14 +1130,15 @@
             "owner": "symengine",
             "repo": "symengine",
             "stars": 1403
-          }
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
         }
       ],
       "title": "Related resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:14:10.203Z",
+    "last_updated": "2026-08-28T23:13:28.879Z",
     "original_repository_info": {
       "archived": false,
       "id": 88170991,
