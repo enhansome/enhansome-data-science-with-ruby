@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Calling Python functions from the Ruby language",
+            "homepage": null,
             "id": 70075851,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-21T05:59:51Z",
+            "open_issues": 52,
             "owner": "red-data-tools",
             "repo": "pycall.rb",
-            "stars": 1116
+            "stars": 1116,
+            "topics": [
+              "data-science",
+              "pycall",
+              "python",
+              "ruby",
+              "rubydatascience",
+              "rubyml"
+            ]
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -26,12 +38,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pure Ruby client for Rserve. Based on  'new' Java client provided with server, but with modifications to adhere to POLS",
+            "homepage": "http://github.com/clbustos/Rserve-Ruby-client",
             "id": 657295,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2024-05-03T04:00:39Z",
+            "open_issues": 13,
             "owner": "clbustos",
             "repo": "Rserve-Ruby-client",
-            "stars": 129
+            "stars": 129,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         }
@@ -48,12 +65,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ruby wrapper for Apache Spark",
+            "homepage": null,
             "id": 29879192,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2017-08-31T10:27:59Z",
+            "open_issues": 23,
             "owner": "ondra-m",
             "repo": "ruby-spark",
-            "stars": 226
+            "stars": 226,
+            "topics": [
+              "distributed",
+              "rdd",
+              "ruby",
+              "ruby-spark",
+              "spark"
+            ]
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -64,12 +92,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 55905615,
             "language": "Java",
+            "license": null,
             "last_commit": "2016-04-27T11:37:34Z",
+            "open_issues": 2,
             "owner": "chyh1990",
             "repo": "jruby-spark",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         }
@@ -86,12 +119,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Ruby Spreadsheet by ywesee GmbH",
+            "homepage": "http://spreadsheet.ch",
             "id": 4017361,
             "language": "Ruby",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-21T14:39:37Z",
+            "open_issues": 13,
             "owner": "zdavatz",
             "repo": "spreadsheet",
-            "stars": 1150
+            "stars": 1150,
+            "topics": [
+              "excel",
+              "gplv3",
+              "ruby",
+              "ruby-spreadsheet",
+              "spreadsheet",
+              "xls"
+            ]
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -102,12 +147,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data Analysis in RUby",
+            "homepage": null,
             "id": 24784998,
             "language": "Ruby",
+            "license": "BSD-2-Clause",
             "last_commit": "2023-08-15T13:17:11Z",
+            "open_issues": 92,
             "owner": "SciRuby",
             "repo": "daru",
-            "stars": 1061
+            "stars": 1061,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -118,12 +168,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dense and sparse linear algebra library for Ruby via SciRuby",
+            "homepage": null,
             "id": 3988087,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2024-04-24T04:37:01Z",
+            "open_issues": 76,
             "owner": "SciRuby",
             "repo": "nmatrix",
-            "stars": 478
+            "stars": 478,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -134,12 +189,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ruby/Numo::NArray - New NArray class library",
+            "homepage": "http://ruby-numo.github.io/narray/",
             "id": 11340157,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-06-06T02:42:46Z",
+            "open_issues": 63,
             "owner": "ruby-numo",
             "repo": "numo-narray",
-            "stars": 469
+            "stars": 469,
+            "topics": [
+              "narray",
+              "numo",
+              "ruby",
+              "ruby-numo",
+              "scientific-computing"
+            ]
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -150,12 +216,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple, powerful data frames for Ruby",
+            "homepage": null,
             "id": 263795414,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-15T17:35:37Z",
+            "open_issues": 2,
             "owner": "ankane",
             "repo": "rover",
-            "stars": 387
+            "stars": 387,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -166,12 +237,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blazingly fast, native 2d kdtree.",
+            "homepage": null,
             "id": 6236822,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2025-05-01T23:54:12Z",
+            "open_issues": 0,
             "owner": "gurgeous",
             "repo": "kdtree",
-            "stars": 126
+            "stars": 126,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -182,12 +258,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cumo (pronounced like \"koomo\") is CUDA aware numerical library whose interface is highly compatible with Ruby Numo",
+            "homepage": null,
             "id": 110840073,
             "language": "C",
-            "last_commit": "2026-08-28T22:16:32Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T01:13:05Z",
+            "open_issues": 5,
             "owner": "sonots",
             "repo": "cumo",
-            "stars": 99
+            "stars": 99,
+            "topics": [
+              "cuda",
+              "numo",
+              "ruby",
+              "scicentific-computing"
+            ]
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -198,12 +284,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multidimensional array similar to NumPy and NArray",
+            "homepage": null,
             "id": 9085464,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2017-03-31T20:27:38Z",
+            "open_issues": 3,
             "owner": "rbotafogo",
             "repo": "mdarray",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "colt",
+              "jruby",
+              "linear-algebra",
+              "matrix",
+              "mdarray",
+              "multidimensional-arrays",
+              "ruby",
+              "rubydatascience"
+            ]
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -214,12 +314,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Ruby implementation of Python's well known Graph library \"networkx\"",
+            "homepage": "https://SciRuby.github.io/networkx.rb",
             "id": 110689980,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2023-02-23T03:41:07Z",
+            "open_issues": 2,
             "owner": "SciRuby",
             "repo": "networkx.rb",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "network-graph",
+              "networkx",
+              "ruby",
+              "ruby-gem"
+            ]
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         }
@@ -236,12 +346,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A RubyGem that provides common datasets",
+            "homepage": null,
             "id": 100153342,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-24T05:50:09Z",
+            "open_issues": 75,
             "owner": "red-data-tools",
             "repo": "red-datasets",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -252,12 +367,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Ruby gem for loading datasets in R",
+            "homepage": null,
             "id": 165481985,
             "language": "Ruby",
+            "license": "GPL-3.0",
             "last_commit": "2023-01-09T11:29:52Z",
+            "open_issues": 3,
             "owner": "kojix2",
             "repo": "RDatasets",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         }
@@ -274,12 +394,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 57318500,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-06-22T20:52:10Z",
+            "open_issues": 8,
             "owner": "red-data-tools",
             "repo": "enumerable-statistics",
-            "stars": 130
+            "stars": 130,
+            "topics": [
+              "rubydatascience"
+            ]
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -290,12 +417,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This gem calculates descriptive statistics including measures of central tendency (e.g. mean, median mode), dispersion (e.g. range, and quartiles), and spread (e.g variance and standard deviation).",
+            "homepage": "http://rubygems.org/gems/descriptive-statistics",
             "id": 6012337,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2020-03-15T00:33:42Z",
+            "open_issues": 0,
             "owner": "jtescher",
             "repo": "descriptive-statistics",
-            "stars": 116
+            "stars": 116,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -306,12 +438,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A suite for basic and advanced statistics on Ruby.",
+            "homepage": "https://github.com/sciruby/statsample",
             "id": 2479152,
             "language": "Ruby",
+            "license": "BSD-3-Clause",
             "last_commit": "2017-11-21T16:15:40Z",
+            "open_issues": 21,
             "owner": "SciRuby",
             "repo": "statsample",
-            "stars": 100
+            "stars": 100,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -322,12 +459,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shin-ichiro Hara's library, updated for Ruby 1.9 & packaged as a gem.",
+            "homepage": "http://github.com/abscondment/statistics2",
             "id": 219796,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2024-04-03T03:36:16Z",
+            "open_issues": 5,
             "owner": "abscondment",
             "repo": "statistics2",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -338,12 +480,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast computation of descriptive statistics in ruby using native code and SIMD",
+            "homepage": null,
             "id": 316867365,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2023-10-20T00:38:33Z",
+            "open_issues": 3,
             "owner": "Martin-Nyaga",
             "repo": "fast_statistics",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -354,12 +501,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Probability distributions for Ruby.",
+            "homepage": "http://sciruby.com/",
             "id": 8963117,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2020-07-05T04:20:38Z",
+            "open_issues": 19,
             "owner": "SciRuby",
             "repo": "distribution",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -370,12 +522,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Ruby interface to the GNU Scientific Library [Ruby 2.x and GSL 1.16 compatible fork of the gsl gem]",
+            "homepage": "https://blackwinter.github.io/rb-gsl",
             "id": 16169841,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2015-06-24T15:54:31Z",
+            "open_issues": 4,
             "owner": "blackwinter",
             "repo": "rb-gsl",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -386,12 +543,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Principal component analysis (PCA) in Ruby",
+            "homepage": null,
             "id": 33215362,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2017-01-05T19:06:44Z",
+            "open_issues": 1,
             "owner": "gbuesing",
             "repo": "pca",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "pca",
+              "principal-component-analysis",
+              "ruby",
+              "rubyml"
+            ]
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -402,12 +569,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Finally, simple mean, median, mode, sum, and frequencies for Ruby arrays and enumerables!",
+            "homepage": null,
             "id": 3410511,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2013-12-16T03:44:06Z",
+            "open_issues": 1,
             "owner": "brianhempel",
             "repo": "simple_stats",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -418,12 +590,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generalized Linear Models extension for Statsample",
+            "homepage": null,
             "id": 14215356,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2019-01-24T11:45:18Z",
+            "open_issues": 13,
             "owner": "SciRuby",
             "repo": "statsample-glm",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -434,12 +611,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bioruby Statsample TimeSeries",
+            "homepage": null,
             "id": 14215214,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2017-08-06T01:26:13Z",
+            "open_issues": 3,
             "owner": "SciRuby",
             "repo": "statsample-timeseries",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -450,12 +632,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Polychoric and Tetrachoric support for statsample",
+            "homepage": "http://ruby-statsample.rubyforge.org/",
             "id": 36066357,
             "language": "Ruby",
+            "license": "BSD-2-Clause",
             "last_commit": "2017-08-22T18:15:20Z",
+            "open_issues": 2,
             "owner": "SciRuby",
             "repo": "statsample-bivariate-extension",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         }
@@ -472,12 +659,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linear Algebra Library for Ruby/Numo::NArray",
+            "homepage": null,
             "id": 56326316,
             "language": "Ruby",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-08-25T08:44:13Z",
+            "open_issues": 11,
             "owner": "ruby-numo",
             "repo": "numo-linalg",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "blas",
+              "lapack",
+              "linalg",
+              "linear-algebra-library",
+              "matrix",
+              "narray",
+              "numo",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -488,12 +689,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ruby wrappers for SymEngine",
+            "homepage": null,
             "id": 41341895,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2019-03-14T16:20:59Z",
+            "open_issues": 19,
             "owner": "symengine",
             "repo": "symengine.rb",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "computer-algebra",
+              "math",
+              "ruby",
+              "rubydatascience"
+            ]
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -504,12 +715,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GSL interface for Ruby/Numo::NArray",
+            "homepage": null,
             "id": 58031035,
             "language": "Ruby",
+            "license": "GPL-3.0",
             "last_commit": "2024-06-07T12:03:12Z",
+            "open_issues": 4,
             "owner": "ruby-numo",
             "repo": "numo-gsl",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "gsl",
+              "narray",
+              "numo",
+              "ruby",
+              "ruby-numo",
+              "scientific-computing"
+            ]
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -520,12 +743,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FFTE interface for Ruby/Numo::NArray",
+            "homepage": null,
             "id": 58045225,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2018-01-18T09:15:15Z",
+            "open_issues": 0,
             "owner": "ruby-numo",
             "repo": "numo-ffte",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "fft",
+              "ffte",
+              "narray",
+              "numo",
+              "ruby",
+              "ruby-numo"
+            ]
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         }
@@ -542,12 +777,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create beautiful JavaScript charts with one line of Ruby",
+            "homepage": "https://chartkick.com",
             "id": 9906653,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-15T21:05:19Z",
+            "open_issues": 7,
             "owner": "ankane",
             "repo": "chartkick",
-            "stars": 6528
+            "stars": 6528,
+            "topics": [
+              "chartjs",
+              "charts",
+              "google-charts",
+              "highcharts",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -558,12 +804,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gruff graphing library for Ruby",
+            "homepage": "http://gruff.rubyforge.org",
             "id": 3542,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-07-28T01:14:11Z",
+            "open_issues": 14,
             "owner": "topfunky",
             "repo": "gruff",
-            "stars": 1398
+            "stars": 1398,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -574,12 +825,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[MIRROR] Ruby interface to the GraphViz graphing tool",
+            "homepage": "https://gitlab.com/glejeune/ruby-graphviz",
             "id": 267009,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2025-03-16T07:54:02Z",
+            "open_issues": 40,
             "owner": "glejeune",
             "repo": "Ruby-Graphviz",
-            "stars": 615
+            "stars": 615,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -590,12 +846,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive charts for Ruby, powered by Vega and Vega-Lite",
+            "homepage": null,
             "id": 298898992,
             "language": "Ruby",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-05-11T12:25:31Z",
+            "open_issues": 0,
             "owner": "ankane",
             "repo": "vega-ruby",
-            "stars": 303
+            "stars": 303,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -606,12 +867,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple coloured countries drawing",
+            "homepage": null,
             "id": 50108242,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2018-08-20T06:25:14Z",
+            "open_issues": 1,
             "owner": "zverok",
             "repo": "worldize",
-            "stars": 262
+            "stars": 262,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -622,12 +888,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "interactive plots generator for Ruby",
+            "homepage": null,
             "id": 20888699,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2016-06-24T14:59:18Z",
+            "open_issues": 38,
             "owner": "domitry",
             "repo": "nyaplot",
-            "stars": 222
+            "stars": 222,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -638,12 +909,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The ruby gnuplot gem [gnuplot] [rgnuplot] (official releases of the gnuplot gem are from rdp branch)",
+            "homepage": null,
             "id": 246465,
             "language": "Ruby",
+            "license": "BSD-3-Clause",
             "last_commit": "2019-12-20T14:31:32Z",
+            "open_issues": 17,
             "owner": "rdp",
             "repo": "ruby_gnuplot",
-            "stars": 219
+            "stars": 219,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -654,12 +930,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert mathematical equations to SVGs, PNGs, or MathML. A general wrapper to Lasem and mtex2MML.",
+            "homepage": "https://gjtorikian.github.io/mathematical/",
             "id": 18828120,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-06-19T14:58:39Z",
+            "open_issues": 7,
             "owner": "gjtorikian",
             "repo": "mathematical",
-            "stars": 170
+            "stars": 170,
+            "topics": [
+              "math",
+              "mathml",
+              "rubydatascience",
+              "svg",
+              "tex-math"
+            ]
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -670,12 +957,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "daru-view is for easy and interactive plotting in web application & IRuby notebook. daru-view is a plugin gem to the existing daru gem.",
+            "homepage": "https://sciruby.github.io/daru-view/",
             "id": 92973307,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2022-08-28T04:58:19Z",
+            "open_issues": 48,
             "owner": "SciRuby",
             "repo": "daru-view",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "charts",
+              "daru",
+              "daru-view",
+              "data-analysis",
+              "data-visualization",
+              "graphs",
+              "iruby-notebook",
+              "nanoc",
+              "plot-library",
+              "rails",
+              "ruby",
+              "sinatra"
+            ]
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -686,12 +991,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ruby wrapper for the GR framework",
+            "homepage": "https://red-data-tools.github.io/GR.rb/",
             "id": 209957348,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-23T00:20:21Z",
+            "open_issues": 9,
             "owner": "red-data-tools",
             "repo": "GR.rb",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "charts",
+              "data-visualization",
+              "plotting",
+              "ruby",
+              "rubydatascience",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -702,12 +1019,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "matplotlib wrapper for Ruby",
+            "homepage": null,
             "id": 70077155,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2023-03-16T17:18:33Z",
+            "open_issues": 8,
             "owner": "red-data-tools",
             "repo": "matplotlib.rb",
-            "stars": 97
+            "stars": 97,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -718,12 +1040,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An advanced plotting library for Ruby.",
+            "homepage": null,
             "id": 133289558,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-06-18T06:39:38Z",
+            "open_issues": 24,
             "owner": "SciRuby",
             "repo": "rubyplot",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -734,12 +1061,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gnuplot wrapper for Ruby/Numo",
+            "homepage": null,
             "id": 59359420,
             "language": "Ruby",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-10-08T13:26:18Z",
+            "open_issues": 5,
             "owner": "ruby-numo",
             "repo": "numo-gnuplot",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "gnuplot",
+              "narray",
+              "numo",
+              "plot",
+              "plotting",
+              "ruby",
+              "ruby-numo"
+            ]
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -750,12 +1090,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A plotting library in Ruby built on top of Vega and D3.",
+            "homepage": null,
             "id": 10708946,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2025-06-22T16:18:46Z",
+            "open_issues": 3,
             "owner": "zuhao",
             "repo": "plotrb",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -766,12 +1111,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google Summer of Code 2015 project",
+            "homepage": null,
             "id": 41033768,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2020-04-06T04:40:45Z",
+            "open_issues": 8,
             "owner": "SciRuby",
             "repo": "gnuplotrb",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -782,12 +1132,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript plotting library",
+            "homepage": "http://nyaplotjs.readthedocs.org",
             "id": 19928664,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2015-12-29T07:16:06Z",
+            "open_issues": 3,
             "owner": "domitry",
             "repo": "Nyaplotjs",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -798,12 +1153,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimalistic wrapper around chartkick for using it within iruby",
+            "homepage": null,
             "id": 218382773,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-06-13T22:27:14Z",
+            "open_issues": 2,
             "owner": "Absolventa",
             "repo": "iruby-chartkick",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "chartkick",
+              "data-science",
+              "iruby",
+              "rubydatascience",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -814,12 +1180,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scruffy Graphs",
+            "homepage": null,
             "id": 263806,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2011-01-01T19:59:25Z",
+            "open_issues": 3,
             "owner": "brasten",
             "repo": "scruffy",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -830,12 +1201,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Ruby benchmark extension to allow comparative plotting of benchmarks.",
+            "homepage": null,
             "id": 60453639,
             "language": "Ruby",
+            "license": "BSD-3-Clause",
             "last_commit": "2016-07-10T18:00:46Z",
+            "open_issues": 0,
             "owner": "v0dro",
             "repo": "benchmark-plot",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -846,12 +1222,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 68770953,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2017-05-22T16:23:26Z",
+            "open_issues": 2,
             "owner": "genya0407",
             "repo": "daru-plotly",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -862,12 +1243,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ruby wrapper for MathGL - library for scientific data visualization",
+            "homepage": "http://masa16.github.io/ruby-mathgl/",
             "id": 13741467,
             "language": "C++",
+            "license": "LGPL-3.0",
             "last_commit": "2016-03-20T14:29:15Z",
+            "open_issues": 0,
             "owner": "masa16",
             "repo": "ruby-mathgl",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         }
@@ -884,12 +1270,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official gem repository: Ruby kernel for Jupyter/IPython Notebook",
+            "homepage": "https://github.com/SciRuby/iruby",
             "id": 31613113,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-06-30T01:27:30Z",
+            "open_issues": 49,
             "owner": "SciRuby",
             "repo": "iruby",
-            "stars": 924
+            "stars": 924,
+            "topics": [
+              "interactive",
+              "jupyter",
+              "repl",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -900,12 +1296,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Integrate Rails and Jupyter",
+            "homepage": null,
             "id": 167176782,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2024-03-19T00:25:46Z",
+            "open_issues": 11,
             "owner": "Yuki-Inoue",
             "repo": "jupyter_on_rails",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "iruby",
+              "jupyter"
+            ]
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -916,12 +1320,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Integrate IRuby and Rails",
+            "homepage": null,
             "id": 61344566,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2019-02-17T15:36:44Z",
+            "open_issues": 1,
             "owner": "SciRuby",
             "repo": "iruby-rails",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         }
@@ -940,12 +1349,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Optimized JSON",
+                "homepage": "http://www.ohler.com/oj",
                 "id": 3468618,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-13T16:41:39Z",
+                "open_issues": 14,
                 "owner": "ohler55",
                 "repo": "oj",
-                "stars": 3225
+                "stars": 3225,
+                "topics": [
+                  "c",
+                  "json",
+                  "json-parser",
+                  "marshaller",
+                  "oj-gem",
+                  "rails",
+                  "ruby",
+                  "ruby-json-parser"
+                ]
               },
               "first_seen": "2026-08-28T23:13:28.879Z"
             },
@@ -956,12 +1379,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruby Optimized XML Parser",
+                "homepage": "http://www.ohler.com/ox",
                 "id": 1345214,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-08T17:56:36Z",
+                "open_issues": 3,
                 "owner": "ohler55",
                 "repo": "ox",
-                "stars": 913
+                "stars": 913,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:28.879Z"
             }
@@ -979,12 +1407,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruby gem and command-line utility for conversion of DOI metadata",
+                "homepage": null,
                 "id": 81830742,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-07-23T10:17:42Z",
+                "open_issues": 24,
                 "owner": "datacite",
                 "repo": "bolognese",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:28.879Z"
             },
@@ -995,12 +1428,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Ruby wrapper for inih (a simple C INI parser)",
+                "homepage": "https://rubygems.org/gems/inih",
                 "id": 97901395,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2021-04-29T22:34:29Z",
+                "open_issues": 0,
                 "owner": "woodruffw",
                 "repo": "ruby-inih",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "c",
+                  "configuration",
+                  "ini",
+                  "inih",
+                  "iniparser",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T23:13:28.879Z"
             }
@@ -1022,12 +1467,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RSpec tests for your AWS resources.",
+            "homepage": null,
             "id": 39773026,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-23T00:12:41Z",
+            "open_issues": 40,
             "owner": "k1LoW",
             "repo": "awspec",
-            "stars": 1176
+            "stars": 1176,
+            "topics": [
+              "aws",
+              "rspec"
+            ]
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -1038,12 +1491,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Itamae recipe for GPU instances in AWS EC2",
+            "homepage": null,
             "id": 58848443,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2016-05-15T12:31:44Z",
+            "open_issues": 0,
             "owner": "mrkn",
             "repo": "gpu-instance",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -1054,12 +1512,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 30456170,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2015-02-17T10:23:06Z",
+            "open_issues": 5,
             "owner": "mrkn",
             "repo": "computing_node",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         }
@@ -1076,12 +1539,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome big data frameworks, ressources and other awesomeness.",
+            "homepage": "https://github.com/onurakpolat/awesome-bigdata",
             "id": 21500692,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-31T12:51:12Z",
+            "open_issues": 4,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14600
+            "stars": 14600,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bigdata",
+              "data",
+              "data-analytics",
+              "data-science",
+              "data-stream",
+              "data-visualization",
+              "data-warehouse",
+              "database",
+              "distributed-database",
+              "series-database",
+              "stream-processing",
+              "streaming-data",
+              "visualize-data"
+            ]
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -1092,12 +1576,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of Python resources for data science.",
+            "homepage": null,
             "id": 158673445,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-11T21:22:52Z",
+            "open_issues": 0,
             "owner": "r0f1",
             "repo": "datascience",
-            "stars": 4658
+            "stars": 4658,
+            "topics": [
+              "artificial-intelligence",
+              "awesome",
+              "awesome-list",
+              "bayes",
+              "data-analysis",
+              "data-mining",
+              "data-science",
+              "data-visualization",
+              "datascience",
+              "deep-learning",
+              "deeplearning",
+              "machine-learning",
+              "python",
+              "statistics"
+            ]
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -1108,12 +1612,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Apache Spark packages and resources.",
+            "homepage": null,
             "id": 50860011,
             "language": "Shell",
+            "license": "CC0-1.0",
             "last_commit": "2026-02-27T08:06:58Z",
+            "open_issues": 24,
             "owner": "awesome-spark",
             "repo": "awesome-spark",
-            "stars": 1893
+            "stars": 1893,
+            "topics": [
+              "apache-spark",
+              "awesome",
+              "pyspark",
+              "sparkr"
+            ]
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -1124,12 +1638,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SymEngine is a fast symbolic manipulation library, written in C++",
+            "homepage": "https://symengine.org",
             "id": 42376,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T19:00:51Z",
+            "open_issues": 252,
             "owner": "symengine",
             "repo": "symengine",
-            "stars": 1403
+            "stars": 1403,
+            "topics": [
+              "c-plus-plus",
+              "computer-algebra",
+              "math"
+            ]
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         }
@@ -1138,15 +1661,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:13:28.879Z",
+    "last_updated": "2026-08-29T04:38:04.164Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Practical Data Science with Ruby based tools.",
+      "homepage": null,
       "id": 88170991,
       "language": "Ruby",
+      "license": "CC0-1.0",
       "last_commit": "2023-07-19T13:51:33Z",
+      "open_issues": 1,
       "owner": "arbox",
       "repo": "data-science-with-ruby",
-      "stars": 720
+      "stars": 720,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "data-analysis",
+        "data-analytics",
+        "data-mining",
+        "data-science",
+        "data-visualization",
+        "list",
+        "ruby",
+        "rubydatascience",
+        "visualization"
+      ]
     },
     "original_repository_sha": "e8802c9dabe70d3320c465d760377b6b1ec4321e",
     "enhanced_repository": "enhansome/enhansome-data-science-with-ruby",
