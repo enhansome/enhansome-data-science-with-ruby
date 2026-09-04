@@ -167,7 +167,7 @@ Comprehensive tools for Data Visualization.
   Create beautiful JavaScript charts with one line of Ruby.
 * [Gruff](https://github.com/topfunky/gruff) ⭐ 1,398 | 🐛 14 | 🌐 Ruby | 📅 2026-07-28 —
   graphing library built on top of [rmagick](https://github.com/rmagick/rmagick) ⭐ 731 | 🐛 4 | 🌐 C++ | 📅 2026-08-31.
-* [ruby-graphviz](https://github.com/glejeune/Ruby-Graphviz) ⭐ 615 | 🐛 40 | 🌐 Ruby | 📅 2025-03-16 <sup>\[[dep: Graphviz](#graphviz)]</sup>
+* [ruby-graphviz](https://github.com/glejeune/Ruby-Graphviz) ⭐ 614 | 🐛 40 | 🌐 Ruby | 📅 2025-03-16 <sup>\[[dep: Graphviz](#graphviz)]</sup>
 * [Vega](https://github.com/ankane/vega) ⭐ 303 | 🐛 0 | 🌐 Ruby | 📅 2026-05-11 —
   [Vega](https://vega.github.io/vega/) and [Vega-lite](https://vega.github.io/vega-lite/)
   based visualization for Rover.
@@ -333,4 +333,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
