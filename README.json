@@ -225,7 +225,7 @@
             "open_issues": 2,
             "owner": "ankane",
             "repo": "rover",
-            "stars": 387,
+            "stars": 388,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
@@ -263,7 +263,7 @@
             "id": 110840073,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-05T14:33:48Z",
+            "last_commit": "2026-09-06T16:18:26Z",
             "open_issues": 5,
             "owner": "sonots",
             "repo": "cumo",
@@ -809,7 +809,7 @@
             "id": 3542,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-07-28T01:14:11Z",
+            "last_commit": "2026-09-06T15:35:31Z",
             "open_issues": 14,
             "owner": "topfunky",
             "repo": "gruff",
@@ -1354,7 +1354,7 @@
                 "id": 3468618,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-08-30T04:14:30Z",
+                "last_commit": "2026-09-06T10:56:44Z",
                 "open_issues": 14,
                 "owner": "ohler55",
                 "repo": "oj",
@@ -1384,7 +1384,7 @@
                 "id": 1345214,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-03T11:49:33Z",
+                "last_commit": "2026-09-06T05:58:43Z",
                 "open_issues": 4,
                 "owner": "ohler55",
                 "repo": "ox",
@@ -1472,7 +1472,7 @@
             "id": 39773026,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-08-30T00:30:25Z",
+            "last_commit": "2026-09-06T00:30:25Z",
             "open_issues": 40,
             "owner": "k1LoW",
             "repo": "awspec",
@@ -1548,7 +1548,7 @@
             "open_issues": 5,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14613,
+            "stars": 14616,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1585,7 +1585,7 @@
             "open_issues": 0,
             "owner": "r0f1",
             "repo": "datascience",
-            "stars": 4662,
+            "stars": 4661,
             "topics": [
               "artificial-intelligence",
               "awesome",
@@ -1647,7 +1647,7 @@
             "open_issues": 252,
             "owner": "symengine",
             "repo": "symengine",
-            "stars": 1406,
+            "stars": 1408,
             "topics": [
               "c-plus-plus",
               "computer-algebra",
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T16:17:43.818Z",
+    "last_updated": "2026-09-06T16:27:20.122Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
