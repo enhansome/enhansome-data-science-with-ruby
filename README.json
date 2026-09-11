@@ -263,8 +263,8 @@
             "id": 110840073,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-10T17:06:24Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-11T16:46:36Z",
+            "open_issues": 5,
             "owner": "sonots",
             "repo": "cumo",
             "stars": 99,
@@ -1548,7 +1548,7 @@
             "open_issues": 5,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14624,
+            "stars": 14630,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T17:16:09.610Z",
+    "last_updated": "2026-09-11T17:18:31.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
