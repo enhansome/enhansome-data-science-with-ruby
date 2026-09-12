@@ -263,8 +263,8 @@
             "id": 110840073,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-11T16:46:36Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-12T16:24:33Z",
+            "open_issues": 4,
             "owner": "sonots",
             "repo": "cumo",
             "stars": 99,
@@ -1548,7 +1548,7 @@
             "open_issues": 5,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14630,
+            "stars": 14632,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1585,7 +1585,7 @@
             "open_issues": 0,
             "owner": "r0f1",
             "repo": "datascience",
-            "stars": 4665,
+            "stars": 4666,
             "topics": [
               "artificial-intelligence",
               "awesome",
@@ -1618,7 +1618,7 @@
             "language": "Shell",
             "license": "CC0-1.0",
             "last_commit": "2026-02-27T08:06:58Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "awesome-spark",
             "repo": "awesome-spark",
             "stars": 1895,
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T17:18:31.332Z",
+    "last_updated": "2026-09-12T16:31:38.666Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
