@@ -19,7 +19,7 @@
             "open_issues": 52,
             "owner": "red-data-tools",
             "repo": "pycall.rb",
-            "stars": 1116,
+            "stars": 1117,
             "topics": [
               "data-science",
               "pycall",
@@ -263,7 +263,7 @@
             "id": 110840073,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-12T16:24:33Z",
+            "last_commit": "2026-09-13T16:43:05Z",
             "open_issues": 4,
             "owner": "sonots",
             "repo": "cumo",
@@ -1472,7 +1472,7 @@
             "id": 39773026,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-06T00:30:25Z",
+            "last_commit": "2026-09-13T00:30:42Z",
             "open_issues": 40,
             "owner": "k1LoW",
             "repo": "awspec",
@@ -1548,7 +1548,7 @@
             "open_issues": 5,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14632,
+            "stars": 14634,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1621,7 +1621,7 @@
             "open_issues": 25,
             "owner": "awesome-spark",
             "repo": "awesome-spark",
-            "stars": 1895,
+            "stars": 1896,
             "topics": [
               "apache-spark",
               "awesome",
@@ -1644,7 +1644,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-04T19:46:17Z",
-            "open_issues": 252,
+            "open_issues": 253,
             "owner": "symengine",
             "repo": "symengine",
             "stars": 1411,
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T16:31:38.666Z",
+    "last_updated": "2026-09-13T17:04:14.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
