@@ -263,8 +263,8 @@
             "id": 110840073,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-14T16:24:32Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-15T15:21:34Z",
+            "open_issues": 4,
             "owner": "sonots",
             "repo": "cumo",
             "stars": 99,
@@ -786,7 +786,7 @@
             "open_issues": 7,
             "owner": "ankane",
             "repo": "chartkick",
-            "stars": 6530,
+            "stars": 6531,
             "topics": [
               "chartjs",
               "charts",
@@ -1585,7 +1585,7 @@
             "open_issues": 0,
             "owner": "r0f1",
             "repo": "datascience",
-            "stars": 4667,
+            "stars": 4668,
             "topics": [
               "artificial-intelligence",
               "awesome",
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T18:53:46.154Z",
+    "last_updated": "2026-09-15T17:46:21.367Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
