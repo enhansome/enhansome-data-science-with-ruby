@@ -1,6 +1,6 @@
 <img src="header.png" align="center">
 
-\[[RubyNLP](https://github.com/arbox/nlp-with-ruby) ⭐ 1,076 | 🐛 7 | 🌐 Ruby | 📅 2023-06-27 |
+\[[RubyNLP](https://github.com/arbox/nlp-with-ruby) ⭐ 1,075 | 🐛 8 | 🌐 Ruby | 📅 2023-06-27 |
 [RubyML](https://github.com/arbox/machine-learning-with-ruby) ⭐ 2,225 | 🐛 6 | 🌐 Ruby | 📅 2024-12-26 |
 [RubyInterop](https://github.com/arbox/ruby-interoperability) ⭐ 41 | 🐛 1 | 🌐 Ruby | 📅 2020-11-16]
 
@@ -106,7 +106,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
   Data Frame and Vector structures with comprehensive manipulating and visualization methods.
 * [kdtree](https://github.com/gurgeous/kdtree) ⭐ 126 | 🐛 0 | 🌐 C | 📅 2025-05-01 —
   blazingly fast native 2d k-d tree.
-* [cumo](https://github.com/sonots/cumo) ⭐ 99 | 🐛 4 | 🌐 C | 📅 2026-09-17 —
+* [cumo](https://github.com/sonots/cumo) ⭐ 99 | 🐛 4 | 🌐 C | 📅 2026-09-18 —
   CUDA-aware numerical Array library with [NArray](https://github.com/ruby-numo/numo-narray) ⭐ 469 | 🐛 63 | 🌐 C | 📅 2025-06-06 similar interface.
 * [mdarray](https://github.com/rbotafogo/mdarray) ⭐ 36 | 🐛 3 | 🌐 Ruby | 📅 2017-03-31 —
   Array structure for `JRuby`.
@@ -119,7 +119,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 * [red-datasets](https://github.com/red-data-tools/red-datasets) ⭐ 33 | 🐛 75 | 🌐 Ruby | 📅 2026-08-24 —
   Growing collection of publicly available data sets such as CIFAR-10, Iris, MNIST etc.
 * [rdatasets](https://github.com/kojix2/rdatasets) ⚠️ Archived —
-  Data sets available in R via [Rdatasets](https://github.com/vincentarelbundock/Rdatasets) ⭐ 417 | 🐛 0 | 🌐 HTML | 📅 2026-06-15.
+  Data sets available in R via [Rdatasets](https://github.com/vincentarelbundock/Rdatasets) ⭐ 418 | 🐛 0 | 🌐 HTML | 📅 2026-06-15.
 
 ## Statistics
 
@@ -203,7 +203,7 @@ Comprehensive tools for Data Visualization.
 
 * [iruby](https://github.com/sciruby/iruby) ⭐ 924 | 🐛 49 | 🌐 Ruby | 📅 2026-06-30 —
   Ruby kernel for [Jupyter](https://jupyter.org/).
-* [jupyter\_on\_rails](https://github.com/Yuki-Inoue/jupyter_on_rails/) ⭐ 88 | 🐛 11 | 🌐 Ruby | 📅 2024-03-19 —
+* [jupyter\_on\_rails](https://github.com/Yuki-Inoue/jupyter_on_rails/) ⭐ 89 | 🐛 11 | 🌐 Ruby | 📅 2024-03-19 —
   Another integration library for IRuby and Rails.
 * [iruby-rails](https://github.com/mrkn/iruby-rails) ⭐ 22 | 🐛 1 | 🌐 Ruby | 📅 2019-02-17 —
   Integration library for IRuby and Rails.
@@ -280,7 +280,7 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
 
 ## Related resources
 
-* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,642 | 🐛 5 | 📅 2026-07-31 -
+* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,644 | 🐛 5 | 📅 2026-07-31 -
   awesome curated list on all around Big Data.
 * [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,670 | 🐛 0 | 📅 2026-09-07
 * [Awesome Spark](https://github.com/awesome-spark/awesome-spark) ⭐ 1,898 | 🐛 24 | 🌐 Shell | 📅 2026-02-27 —
@@ -333,4 +333,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
