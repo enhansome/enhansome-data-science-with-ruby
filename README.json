@@ -128,7 +128,7 @@
             "open_issues": 13,
             "owner": "zdavatz",
             "repo": "spreadsheet",
-            "stars": 1150,
+            "stars": 1151,
             "topics": [
               "excel",
               "gplv3",
@@ -263,8 +263,8 @@
             "id": 110840073,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-20T15:39:59Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-21T18:33:09Z",
+            "open_issues": 5,
             "owner": "sonots",
             "repo": "cumo",
             "stars": 99,
@@ -1358,7 +1358,7 @@
                 "open_issues": 14,
                 "owner": "ohler55",
                 "repo": "oj",
-                "stars": 3225,
+                "stars": 3224,
                 "topics": [
                   "c",
                   "json",
@@ -1382,10 +1382,10 @@
                 "description": "Ruby Optimized XML Parser",
                 "homepage": "http://www.ohler.com/ox",
                 "id": 1345214,
-                "language": "C",
+                "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-09-06T05:58:43Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-20T18:20:05Z",
+                "open_issues": 4,
                 "owner": "ohler55",
                 "repo": "ox",
                 "stars": 913,
@@ -1548,7 +1548,7 @@
             "open_issues": 5,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14648,
+            "stars": 14647,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1621,7 +1621,7 @@
             "open_issues": 24,
             "owner": "awesome-spark",
             "repo": "awesome-spark",
-            "stars": 1899,
+            "stars": 1900,
             "topics": [
               "apache-spark",
               "awesome",
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T17:01:39.341Z",
+    "last_updated": "2026-09-21T18:55:07.718Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
