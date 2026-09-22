@@ -261,10 +261,10 @@
             "description": "Cumo (pronounced like \"koomo\") is CUDA aware numerical library whose interface is highly compatible with Ruby Numo",
             "homepage": null,
             "id": 110840073,
-            "language": "C",
+            "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-21T18:33:09Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-22T09:01:50Z",
+            "open_issues": 3,
             "owner": "sonots",
             "repo": "cumo",
             "stars": 99,
@@ -996,8 +996,8 @@
             "id": 209957348,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-06-23T00:20:21Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-22T13:28:40Z",
+            "open_issues": 7,
             "owner": "red-data-tools",
             "repo": "GR.rb",
             "stars": 98,
@@ -1358,7 +1358,7 @@
                 "open_issues": 14,
                 "owner": "ohler55",
                 "repo": "oj",
-                "stars": 3224,
+                "stars": 3223,
                 "topics": [
                   "c",
                   "json",
@@ -1548,7 +1548,7 @@
             "open_issues": 5,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14647,
+            "stars": 14646,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T18:55:07.718Z",
+    "last_updated": "2026-09-22T17:46:23.067Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
