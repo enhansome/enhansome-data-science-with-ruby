@@ -263,7 +263,7 @@
             "id": 110840073,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-22T09:01:50Z",
+            "last_commit": "2026-09-23T16:46:26Z",
             "open_issues": 3,
             "owner": "sonots",
             "repo": "cumo",
@@ -786,7 +786,7 @@
             "open_issues": 7,
             "owner": "ankane",
             "repo": "chartkick",
-            "stars": 6532,
+            "stars": 6531,
             "topics": [
               "chartjs",
               "charts",
@@ -1384,8 +1384,8 @@
                 "id": 1345214,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-09-20T18:20:05Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-23T11:53:24Z",
+                "open_issues": 3,
                 "owner": "ohler55",
                 "repo": "ox",
                 "stars": 913,
@@ -1548,7 +1548,7 @@
             "open_issues": 5,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14646,
+            "stars": 14649,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1621,7 +1621,7 @@
             "open_issues": 24,
             "owner": "awesome-spark",
             "repo": "awesome-spark",
-            "stars": 1900,
+            "stars": 1901,
             "topics": [
               "apache-spark",
               "awesome",
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T17:46:23.067Z",
+    "last_updated": "2026-09-23T17:58:55.774Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
