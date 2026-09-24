@@ -106,7 +106,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
   Data Frame and Vector structures with comprehensive manipulating and visualization methods.
 * [kdtree](https://github.com/gurgeous/kdtree) ⭐ 126 | 🐛 0 | 🌐 C | 📅 2025-05-01 —
   blazingly fast native 2d k-d tree.
-* [cumo](https://github.com/sonots/cumo) ⭐ 99 | 🐛 3 | 🌐 Ruby | 📅 2026-09-23 —
+* [cumo](https://github.com/sonots/cumo) ⭐ 99 | 🐛 3 | 🌐 Ruby | 📅 2026-09-24 —
   CUDA-aware numerical Array library with [NArray](https://github.com/ruby-numo/numo-narray) ⭐ 469 | 🐛 63 | 🌐 C | 📅 2025-06-06 similar interface.
 * [mdarray](https://github.com/rbotafogo/mdarray) ⭐ 36 | 🐛 3 | 🌐 Ruby | 📅 2017-03-31 —
   Array structure for `JRuby`.
@@ -212,7 +212,7 @@ Comprehensive tools for Data Visualization.
 
 ### General formats
 
-* [oj](https://github.com/ohler55/oj) ⭐ 3,223 | 🐛 14 | 🌐 C | 📅 2026-09-10 —
+* [oj](https://github.com/ohler55/oj) ⭐ 3,224 | 🐛 15 | 🌐 C | 📅 2026-09-10 —
   High-speed JSON parser.
 * [ox](https://github.com/ohler55/ox) ⭐ 913 | 🐛 3 | 🌐 Ruby | 📅 2026-09-23 —
   Optimized for speed XML parser and object marshaller.
@@ -280,10 +280,10 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
 
 ## Related resources
 
-* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,649 | 🐛 5 | 📅 2026-07-31 -
+* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,650 | 🐛 5 | 📅 2026-07-31 -
   awesome curated list on all around Big Data.
-* [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,672 | 🐛 0 | 📅 2026-09-07
-* [Awesome Spark](https://github.com/awesome-spark/awesome-spark) ⭐ 1,901 | 🐛 24 | 🌐 Shell | 📅 2026-02-27 —
+* [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,673 | 🐛 0 | 📅 2026-09-07
+* [Awesome Spark](https://github.com/awesome-spark/awesome-spark) ⭐ 1,902 | 🐛 24 | 🌐 Shell | 📅 2026-02-27 —
   awesome list on Apache Spark goodies.
 * <a name="symengine"></a>
   [SymEngine](https://github.com/symengine/symengine) ⭐ 1,412 | 🐛 253 | 🌐 C++ | 📅 2026-09-04
@@ -333,4 +333,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
