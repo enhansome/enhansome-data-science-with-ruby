@@ -106,7 +106,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
   Data Frame and Vector structures with comprehensive manipulating and visualization methods.
 * [kdtree](https://github.com/gurgeous/kdtree) ⭐ 126 | 🐛 0 | 🌐 C | 📅 2025-05-01 —
   blazingly fast native 2d k-d tree.
-* [cumo](https://github.com/sonots/cumo) ⭐ 99 | 🐛 4 | 🌐 Ruby | 📅 2026-09-25 —
+* [cumo](https://github.com/sonots/cumo) ⭐ 99 | 🐛 3 | 🌐 Ruby | 📅 2026-09-26 —
   CUDA-aware numerical Array library with [NArray](https://github.com/ruby-numo/numo-narray) ⭐ 469 | 🐛 63 | 🌐 C | 📅 2025-06-06 similar interface.
 * [mdarray](https://github.com/rbotafogo/mdarray) ⭐ 36 | 🐛 3 | 🌐 Ruby | 📅 2017-03-31 —
   Array structure for `JRuby`.
@@ -116,7 +116,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 
 ## Data sets
 
-* [red-datasets](https://github.com/red-data-tools/red-datasets) ⭐ 33 | 🐛 75 | 🌐 Ruby | 📅 2026-08-24 —
+* [red-datasets](https://github.com/red-data-tools/red-datasets) ⭐ 33 | 🐛 76 | 🌐 Ruby | 📅 2026-08-24 —
   Growing collection of publicly available data sets such as CIFAR-10, Iris, MNIST etc.
 * [rdatasets](https://github.com/kojix2/rdatasets) ⚠️ Archived —
   Data sets available in R via [Rdatasets](https://github.com/vincentarelbundock/Rdatasets) ⭐ 418 | 🐛 0 | 🌐 HTML | 📅 2026-06-15.
@@ -166,7 +166,7 @@ Comprehensive tools for Data Visualization.
 * [chartkick](https://github.com/ankane/chartkick) ⭐ 6,531 | 🐛 7 | 🌐 Ruby | 📅 2026-08-15 —
   Create beautiful JavaScript charts with one line of Ruby.
 * [Gruff](https://github.com/topfunky/gruff) ⭐ 1,398 | 🐛 14 | 🌐 Ruby | 📅 2026-09-06 —
-  graphing library built on top of [rmagick](https://github.com/rmagick/rmagick) ⭐ 731 | 🐛 4 | 🌐 C++ | 📅 2026-09-23.
+  graphing library built on top of [rmagick](https://github.com/rmagick/rmagick) ⭐ 731 | 🐛 5 | 🌐 C++ | 📅 2026-09-23.
 * [ruby-graphviz](https://github.com/glejeune/Ruby-Graphviz) ⭐ 614 | 🐛 40 | 🌐 Ruby | 📅 2025-03-16 <sup>\[[dep: Graphviz](#graphviz)]</sup>
 * [Vega](https://github.com/ankane/vega) ⭐ 303 | 🐛 0 | 🌐 Ruby | 📅 2026-05-11 —
   [Vega](https://vega.github.io/vega/) and [Vega-lite](https://vega.github.io/vega-lite/)
@@ -212,7 +212,7 @@ Comprehensive tools for Data Visualization.
 
 ### General formats
 
-* [oj](https://github.com/ohler55/oj) ⭐ 3,224 | 🐛 15 | 🌐 C | 📅 2026-09-10 —
+* [oj](https://github.com/ohler55/oj) ⭐ 3,223 | 🐛 14 | 🌐 C | 📅 2026-09-25 —
   High-speed JSON parser.
 * [ox](https://github.com/ohler55/ox) ⭐ 913 | 🐛 3 | 🌐 Ruby | 📅 2026-09-23 —
   Optimized for speed XML parser and object marshaller.
@@ -280,9 +280,9 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
 
 ## Related resources
 
-* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,651 | 🐛 6 | 📅 2026-07-31 -
+* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,650 | 🐛 6 | 📅 2026-07-31 -
   awesome curated list on all around Big Data.
-* [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,674 | 🐛 1 | 📅 2026-09-07
+* [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,675 | 🐛 1 | 📅 2026-09-07
 * [Awesome Spark](https://github.com/awesome-spark/awesome-spark) ⭐ 1,902 | 🐛 24 | 🌐 Shell | 📅 2026-02-27 —
   awesome list on Apache Spark goodies.
 * <a name="symengine"></a>
@@ -333,4 +333,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
