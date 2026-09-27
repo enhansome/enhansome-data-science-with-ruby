@@ -19,7 +19,7 @@
             "open_issues": 52,
             "owner": "red-data-tools",
             "repo": "pycall.rb",
-            "stars": 1117,
+            "stars": 1118,
             "topics": [
               "data-science",
               "pycall",
@@ -263,7 +263,7 @@
             "id": 110840073,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-26T16:35:04Z",
+            "last_commit": "2026-09-27T15:57:40Z",
             "open_issues": 3,
             "owner": "sonots",
             "repo": "cumo",
@@ -351,8 +351,8 @@
             "id": 100153342,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-08-24T05:50:09Z",
-            "open_issues": 76,
+            "last_commit": "2026-09-26T21:23:26Z",
+            "open_issues": 75,
             "owner": "red-data-tools",
             "repo": "red-datasets",
             "stars": 33,
@@ -1355,7 +1355,7 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-09-25T18:24:22Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "ohler55",
                 "repo": "oj",
                 "stars": 3223,
@@ -1472,7 +1472,7 @@
             "id": 39773026,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-13T00:30:42Z",
+            "last_commit": "2026-09-27T00:32:13Z",
             "open_issues": 40,
             "owner": "k1LoW",
             "repo": "awspec",
@@ -1548,7 +1548,7 @@
             "open_issues": 6,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14650,
+            "stars": 14651,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1585,7 +1585,7 @@
             "open_issues": 1,
             "owner": "r0f1",
             "repo": "datascience",
-            "stars": 4675,
+            "stars": 4676,
             "topics": [
               "artificial-intelligence",
               "awesome",
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T17:23:56.540Z",
+    "last_updated": "2026-09-27T17:56:49.980Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
