@@ -19,7 +19,7 @@
             "open_issues": 52,
             "owner": "red-data-tools",
             "repo": "pycall.rb",
-            "stars": 1118,
+            "stars": 1119,
             "topics": [
               "data-science",
               "pycall",
@@ -267,7 +267,7 @@
             "open_issues": 3,
             "owner": "sonots",
             "repo": "cumo",
-            "stars": 99,
+            "stars": 100,
             "topics": [
               "cuda",
               "numo",
@@ -952,6 +952,27 @@
         },
         {
           "node_type": "item",
+          "title": "matplotlib",
+          "description": "Ruby based wrapper around matplotlib. [dep: matplotlib]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "matplotlib wrapper for Ruby",
+            "homepage": null,
+            "id": 70077155,
+            "language": "Ruby",
+            "license": "MIT",
+            "last_commit": "2023-03-16T17:18:33Z",
+            "open_issues": 8,
+            "owner": "red-data-tools",
+            "repo": "matplotlib.rb",
+            "stars": 98,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T23:13:28.879Z"
+        },
+        {
+          "node_type": "item",
           "title": "daru-view",
           "description": "daru-view is interactive plotting gem for web application (any Ruby web application framework like Rails/Sinatra/Nanoc/Hanami) & IRuby notebook. It is a plugin gem for daru.",
           "children": [],
@@ -1009,27 +1030,6 @@
               "rubydatascience",
               "visualization"
             ]
-          },
-          "first_seen": "2026-08-28T23:13:28.879Z"
-        },
-        {
-          "node_type": "item",
-          "title": "matplotlib",
-          "description": "Ruby based wrapper around matplotlib. [dep: matplotlib]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "matplotlib wrapper for Ruby",
-            "homepage": null,
-            "id": 70077155,
-            "language": "Ruby",
-            "license": "MIT",
-            "last_commit": "2023-03-16T17:18:33Z",
-            "open_issues": 8,
-            "owner": "red-data-tools",
-            "repo": "matplotlib.rb",
-            "stars": 97,
-            "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
         },
@@ -1358,7 +1358,7 @@
                 "open_issues": 15,
                 "owner": "ohler55",
                 "repo": "oj",
-                "stars": 3223,
+                "stars": 3224,
                 "topics": [
                   "c",
                   "json",
@@ -1548,7 +1548,7 @@
             "open_issues": 6,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14651,
+            "stars": 14655,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1585,7 +1585,7 @@
             "open_issues": 1,
             "owner": "r0f1",
             "repo": "datascience",
-            "stars": 4676,
+            "stars": 4675,
             "topics": [
               "artificial-intelligence",
               "awesome",
@@ -1621,7 +1621,7 @@
             "open_issues": 24,
             "owner": "awesome-spark",
             "repo": "awesome-spark",
-            "stars": 1902,
+            "stars": 1901,
             "topics": [
               "apache-spark",
               "awesome",
@@ -1647,7 +1647,7 @@
             "open_issues": 253,
             "owner": "symengine",
             "repo": "symengine",
-            "stars": 1414,
+            "stars": 1415,
             "topics": [
               "c-plus-plus",
               "computer-algebra",
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T17:56:49.980Z",
+    "last_updated": "2026-09-28T20:15:08.472Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
