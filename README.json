@@ -225,7 +225,7 @@
             "open_issues": 2,
             "owner": "ankane",
             "repo": "rover",
-            "stars": 388,
+            "stars": 387,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
@@ -263,7 +263,7 @@
             "id": 110840073,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-27T15:57:40Z",
+            "last_commit": "2026-09-29T14:40:51Z",
             "open_issues": 3,
             "owner": "sonots",
             "repo": "cumo",
@@ -786,7 +786,7 @@
             "open_issues": 7,
             "owner": "ankane",
             "repo": "chartkick",
-            "stars": 6531,
+            "stars": 6530,
             "topics": [
               "chartjs",
               "charts",
@@ -1354,7 +1354,7 @@
                 "id": 3468618,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-25T18:24:22Z",
+                "last_commit": "2026-09-29T17:40:34Z",
                 "open_issues": 15,
                 "owner": "ohler55",
                 "repo": "oj",
@@ -1585,7 +1585,7 @@
             "open_issues": 1,
             "owner": "r0f1",
             "repo": "datascience",
-            "stars": 4675,
+            "stars": 4677,
             "topics": [
               "artificial-intelligence",
               "awesome",
@@ -1647,7 +1647,7 @@
             "open_issues": 253,
             "owner": "symengine",
             "repo": "symengine",
-            "stars": 1415,
+            "stars": 1416,
             "topics": [
               "c-plus-plus",
               "computer-algebra",
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T20:15:08.472Z",
+    "last_updated": "2026-09-29T18:53:36.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
