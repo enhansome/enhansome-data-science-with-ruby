@@ -19,7 +19,7 @@
             "open_issues": 52,
             "owner": "red-data-tools",
             "repo": "pycall.rb",
-            "stars": 1119,
+            "stars": 1120,
             "topics": [
               "data-science",
               "pycall",
@@ -263,7 +263,7 @@
             "id": 110840073,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-29T14:40:51Z",
+            "last_commit": "2026-09-30T12:55:36Z",
             "open_issues": 3,
             "owner": "sonots",
             "repo": "cumo",
@@ -786,7 +786,7 @@
             "open_issues": 7,
             "owner": "ankane",
             "repo": "chartkick",
-            "stars": 6530,
+            "stars": 6529,
             "topics": [
               "chartjs",
               "charts",
@@ -1354,7 +1354,7 @@
                 "id": 3468618,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-29T17:40:34Z",
+                "last_commit": "2026-09-30T15:46:50Z",
                 "open_issues": 15,
                 "owner": "ohler55",
                 "repo": "oj",
@@ -1548,7 +1548,7 @@
             "open_issues": 6,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14655,
+            "stars": 14658,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T18:53:36.074Z",
+    "last_updated": "2026-09-30T18:35:43.399Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
