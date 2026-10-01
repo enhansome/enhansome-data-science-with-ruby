@@ -19,7 +19,7 @@
             "open_issues": 52,
             "owner": "red-data-tools",
             "repo": "pycall.rb",
-            "stars": 1120,
+            "stars": 1121,
             "topics": [
               "data-science",
               "pycall",
@@ -47,7 +47,7 @@
             "open_issues": 13,
             "owner": "clbustos",
             "repo": "Rserve-Ruby-client",
-            "stars": 129,
+            "stars": 128,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
@@ -263,7 +263,7 @@
             "id": 110840073,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-30T12:55:36Z",
+            "last_commit": "2026-10-01T13:25:10Z",
             "open_issues": 3,
             "owner": "sonots",
             "repo": "cumo",
@@ -786,7 +786,7 @@
             "open_issues": 7,
             "owner": "ankane",
             "repo": "chartkick",
-            "stars": 6529,
+            "stars": 6528,
             "topics": [
               "chartjs",
               "charts",
@@ -1355,7 +1355,7 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-09-30T15:46:50Z",
-                "open_issues": 15,
+                "open_issues": 17,
                 "owner": "ohler55",
                 "repo": "oj",
                 "stars": 3224,
@@ -1548,7 +1548,7 @@
             "open_issues": 6,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14658,
+            "stars": 14657,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1581,8 +1581,8 @@
             "id": 158673445,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-09-07T18:59:25Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-01T14:23:27Z",
+            "open_issues": 0,
             "owner": "r0f1",
             "repo": "datascience",
             "stars": 4677,
@@ -1644,7 +1644,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-04T19:46:17Z",
-            "open_issues": 253,
+            "open_issues": 254,
             "owner": "symengine",
             "repo": "symengine",
             "stars": 1416,
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T18:35:43.399Z",
+    "last_updated": "2026-10-01T19:03:52.990Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
