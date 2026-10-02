@@ -263,7 +263,7 @@
             "id": 110840073,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-01T13:25:10Z",
+            "last_commit": "2026-10-02T18:15:01Z",
             "open_issues": 3,
             "owner": "sonots",
             "repo": "cumo",
@@ -855,7 +855,7 @@
             "open_issues": 0,
             "owner": "ankane",
             "repo": "vega-ruby",
-            "stars": 303,
+            "stars": 304,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
@@ -1585,7 +1585,7 @@
             "open_issues": 0,
             "owner": "r0f1",
             "repo": "datascience",
-            "stars": 4677,
+            "stars": 4678,
             "topics": [
               "artificial-intelligence",
               "awesome",
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T19:03:52.990Z",
+    "last_updated": "2026-10-02T18:43:23.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
