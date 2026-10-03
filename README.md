@@ -94,7 +94,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 
 ## Data Structures
 
-* [spreadsheet](https://github.com/zdavatz/spreadsheet) ⭐ 1,151 | 🐛 13 | 🌐 Ruby | 📅 2026-04-21 —
+* [spreadsheet](https://github.com/zdavatz/spreadsheet) ⭐ 1,149 | 🐛 13 | 🌐 Ruby | 📅 2026-04-21 —
   manipulation library for MS Excel spreadsheets.
 * [daru](https://github.com/SciRuby/daru) ⭐ 1,061 | 🐛 92 | 🌐 Ruby | 📅 2023-08-15 —
   Data Frame and Vector structures with comprehensive manipulating and visualization methods.
@@ -106,7 +106,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
   Data Frame and Vector structures with comprehensive manipulating and visualization methods.
 * [kdtree](https://github.com/gurgeous/kdtree) ⭐ 126 | 🐛 0 | 🌐 C | 📅 2025-05-01 —
   blazingly fast native 2d k-d tree.
-* [cumo](https://github.com/sonots/cumo) ⭐ 100 | 🐛 3 | 🌐 Ruby | 📅 2026-10-02 —
+* [cumo](https://github.com/sonots/cumo) ⭐ 100 | 🐛 3 | 🌐 Ruby | 📅 2026-10-03 —
   CUDA-aware numerical Array library with [NArray](https://github.com/ruby-numo/numo-narray) ⭐ 469 | 🐛 63 | 🌐 C | 📅 2025-06-06 similar interface.
 * [mdarray](https://github.com/rbotafogo/mdarray) ⭐ 36 | 🐛 3 | 🌐 Ruby | 📅 2017-03-31 —
   Array structure for `JRuby`.
@@ -173,7 +173,7 @@ Comprehensive tools for Data Visualization.
   based visualization for Rover.
 * <https://github.com/zverok/worldize> ⭐ 262 | 🐛 1 | 🌐 Ruby | 📅 2018-08-20
 * [nyaplot](https://github.com/domitry/nyaplot) ⭐ 222 | 🐛 38 | 🌐 Ruby | 📅 2016-06-24
-* [gnuplot](https://github.com/rdp/ruby_gnuplot/tree/master) ⭐ 219 | 🐛 17 | 🌐 Ruby | 📅 2019-12-20 <sup>\[[dep: gnuplot](#gnuplot)]</sup>
+* [gnuplot](https://github.com/rdp/ruby_gnuplot/tree/master) ⭐ 218 | 🐛 17 | 🌐 Ruby | 📅 2019-12-20 <sup>\[[dep: gnuplot](#gnuplot)]</sup>
 * [mathematical](https://github.com/gjtorikian/mathematical) ⭐ 170 | 🐛 6 | 🌐 Ruby | 📅 2026-06-19 —
   PNG and MathML renderings for your equations.
 * [matplotlib](https://github.com/mrkn/matplotlib.rb) ⭐ 98 | 🐛 8 | 🌐 Ruby | 📅 2023-03-16 —
@@ -236,7 +236,7 @@ Comprehensive tools for Data Visualization.
 
 ## Provisioning Infrastructure
 
-* <https://github.com/k1LoW/awspec> ⭐ 1,175 | 🐛 40 | 🌐 Ruby | 📅 2026-09-27
+* <https://github.com/k1LoW/awspec> ⭐ 1,174 | 🐛 40 | 🌐 Ruby | 📅 2026-09-27
 * <https://github.com/mrkn/gpu-instance> ⭐ 0 | 🐛 0 | 🌐 Ruby | 📅 2016-05-15
 * <https://github.com/mrkn/computing_node> ⭐ 0 | 🐛 5 | 🌐 Ruby | 📅 2015-02-17
 
@@ -280,7 +280,7 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
 
 ## Related resources
 
-* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,657 | 🐛 6 | 📅 2026-07-31 -
+* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,658 | 🐛 6 | 📅 2026-07-31 -
   awesome curated list on all around Big Data.
 * [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,678 | 🐛 0 | 📅 2026-10-01
 * [Awesome Spark](https://github.com/awesome-spark/awesome-spark) ⭐ 1,901 | 🐛 24 | 🌐 Shell | 📅 2026-02-27 —
@@ -333,4 +333,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

@@ -128,7 +128,7 @@
             "open_issues": 13,
             "owner": "zdavatz",
             "repo": "spreadsheet",
-            "stars": 1151,
+            "stars": 1149,
             "topics": [
               "excel",
               "gplv3",
@@ -263,7 +263,7 @@
             "id": 110840073,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-02T18:15:01Z",
+            "last_commit": "2026-10-03T04:25:59Z",
             "open_issues": 3,
             "owner": "sonots",
             "repo": "cumo",
@@ -863,7 +863,7 @@
         {
           "node_type": "item",
           "title": "zverok/worldize",
-          "description": null,
+          "description": "zverok/worldize",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -884,7 +884,7 @@
         {
           "node_type": "item",
           "title": "nyaplot",
-          "description": null,
+          "description": "domitry/nyaplot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -918,7 +918,7 @@
             "open_issues": 17,
             "owner": "rdp",
             "repo": "ruby_gnuplot",
-            "stars": 219,
+            "stars": 218,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
@@ -1086,7 +1086,7 @@
         {
           "node_type": "item",
           "title": "zuhao/plotrb",
-          "description": null,
+          "description": "zuhao/plotrb",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1107,7 +1107,7 @@
         {
           "node_type": "item",
           "title": "gnuplotrb",
-          "description": null,
+          "description": "SciRuby/gnuplotrb",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1128,7 +1128,7 @@
         {
           "node_type": "item",
           "title": "Nyaplotjs",
-          "description": null,
+          "description": "domitry/Nyaplotjs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1176,7 +1176,7 @@
         {
           "node_type": "item",
           "title": "brasten/scruffy",
-          "description": null,
+          "description": "brasten/scruffy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1197,7 +1197,7 @@
         {
           "node_type": "item",
           "title": "benchmark-plot",
-          "description": null,
+          "description": "v0dro/benchmark-plot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1239,7 +1239,7 @@
         {
           "node_type": "item",
           "title": "masa16/ruby-mathgl",
-          "description": null,
+          "description": "masa16/ruby-mathgl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1463,7 +1463,7 @@
         {
           "node_type": "item",
           "title": "k1LoW/awspec",
-          "description": null,
+          "description": "k1LoW/awspec",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1476,7 +1476,7 @@
             "open_issues": 40,
             "owner": "k1LoW",
             "repo": "awspec",
-            "stars": 1175,
+            "stars": 1174,
             "topics": [
               "aws",
               "rspec"
@@ -1487,7 +1487,7 @@
         {
           "node_type": "item",
           "title": "mrkn/gpu-instance",
-          "description": null,
+          "description": "mrkn/gpu-instance",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1508,7 +1508,7 @@
         {
           "node_type": "item",
           "title": "mrkn/computing_node",
-          "description": null,
+          "description": "mrkn/computing_node",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1548,7 +1548,7 @@
             "open_issues": 6,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14657,
+            "stars": 14658,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1572,7 +1572,7 @@
         {
           "node_type": "item",
           "title": "Awesome Data Science with Python",
-          "description": null,
+          "description": "r0f1/datascience",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1634,7 +1634,7 @@
         {
           "node_type": "item",
           "title": "SymEngine",
-          "description": null,
+          "description": "symengine/symengine",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:43:23.343Z",
+    "last_updated": "2026-10-03T04:43:05.157Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
