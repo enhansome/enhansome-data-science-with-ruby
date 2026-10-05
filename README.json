@@ -263,7 +263,7 @@
             "id": 110840073,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-04T17:31:42Z",
+            "last_commit": "2026-10-05T13:26:10Z",
             "open_issues": 3,
             "owner": "sonots",
             "repo": "cumo",
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T17:51:38.000Z",
+    "last_updated": "2026-10-05T21:22:45.470Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
