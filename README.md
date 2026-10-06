@@ -166,7 +166,7 @@ Comprehensive tools for Data Visualization.
 * [chartkick](https://github.com/ankane/chartkick) ⭐ 6,528 | 🐛 7 | 🌐 Ruby | 📅 2026-08-15 —
   Create beautiful JavaScript charts with one line of Ruby.
 * [Gruff](https://github.com/topfunky/gruff) ⭐ 1,398 | 🐛 14 | 🌐 Ruby | 📅 2026-09-06 —
-  graphing library built on top of [rmagick](https://github.com/rmagick/rmagick) ⭐ 731 | 🐛 5 | 🌐 C++ | 📅 2026-10-04.
+  graphing library built on top of [rmagick](https://github.com/rmagick/rmagick) ⭐ 731 | 🐛 5 | 🌐 C++ | 📅 2026-10-06.
 * [ruby-graphviz](https://github.com/glejeune/Ruby-Graphviz) ⭐ 614 | 🐛 40 | 🌐 Ruby | 📅 2025-03-16 <sup>\[[dep: Graphviz](#graphviz)]</sup>
 * [Vega](https://github.com/ankane/vega) ⭐ 304 | 🐛 0 | 🌐 Ruby | 📅 2026-05-11 —
   [Vega](https://vega.github.io/vega/) and [Vega-lite](https://vega.github.io/vega-lite/)
@@ -214,7 +214,7 @@ Comprehensive tools for Data Visualization.
 
 * [oj](https://github.com/ohler55/oj) ⭐ 3,224 | 🐛 18 | 🌐 C | 📅 2026-09-30 —
   High-speed JSON parser.
-* [ox](https://github.com/ohler55/ox) ⭐ 913 | 🐛 3 | 🌐 Ruby | 📅 2026-09-23 —
+* [ox](https://github.com/ohler55/ox) ⭐ 912 | 🐛 3 | 🌐 Ruby | 📅 2026-09-23 —
   Optimized for speed XML parser and object marshaller.
 * <https://github.com/fiksu/rcsv>
 * Markdown
