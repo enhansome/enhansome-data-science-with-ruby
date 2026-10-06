@@ -74,7 +74,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 
 <!--- TODO: Add the talk by @mrkn --->
 
-* [pycall](https://github.com/mrkn/pycall.rb) ⭐ 1,121 | 🐛 52 | 🌐 C | 📅 2026-08-21 — Bridge into the Python world.
+* [pycall](https://github.com/mrkn/pycall.rb) ⭐ 1,122 | 🐛 52 | 🌐 C | 📅 2026-08-21 — Bridge into the Python world.
 * [rserve-client](https://github.com/clbustos/Rserve-Ruby-client) ⭐ 128 | 🐛 13 | 🌐 Ruby | 📅 2024-05-03 —
   Ruby connector for [Rserve](http://www.rforge.net/Rserve/), R's binary server.
 
@@ -212,7 +212,7 @@ Comprehensive tools for Data Visualization.
 
 ### General formats
 
-* [oj](https://github.com/ohler55/oj) ⭐ 3,224 | 🐛 17 | 🌐 C | 📅 2026-09-30 —
+* [oj](https://github.com/ohler55/oj) ⭐ 3,224 | 🐛 18 | 🌐 C | 📅 2026-09-30 —
   High-speed JSON parser.
 * [ox](https://github.com/ohler55/ox) ⭐ 913 | 🐛 3 | 🌐 Ruby | 📅 2026-09-23 —
   Optimized for speed XML parser and object marshaller.
@@ -280,9 +280,9 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
 
 ## Related resources
 
-* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,659 | 🐛 6 | 📅 2026-07-31 -
+* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,660 | 🐛 6 | 📅 2026-07-31 -
   awesome curated list on all around Big Data.
-* [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,677 | 🐛 0 | 📅 2026-10-01
+* [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,676 | 🐛 0 | 📅 2026-10-01
 * [Awesome Spark](https://github.com/awesome-spark/awesome-spark) ⭐ 1,901 | 🐛 24 | 🌐 Shell | 📅 2026-02-27 —
   awesome list on Apache Spark goodies.
 * <a name="symengine"></a>
@@ -333,4 +333,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
