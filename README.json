@@ -263,8 +263,8 @@
             "id": 110840073,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-05T13:26:10Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-07T11:59:53Z",
+            "open_issues": 2,
             "owner": "sonots",
             "repo": "cumo",
             "stars": 100,
@@ -1358,7 +1358,7 @@
                 "open_issues": 18,
                 "owner": "ohler55",
                 "repo": "oj",
-                "stars": 3224,
+                "stars": 3225,
                 "topics": [
                   "c",
                   "json",
@@ -1548,7 +1548,7 @@
             "open_issues": 6,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14660,
+            "stars": 14667,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1585,7 +1585,7 @@
             "open_issues": 0,
             "owner": "r0f1",
             "repo": "datascience",
-            "stars": 4676,
+            "stars": 4677,
             "topics": [
               "artificial-intelligence",
               "awesome",
@@ -1621,7 +1621,7 @@
             "open_issues": 24,
             "owner": "awesome-spark",
             "repo": "awesome-spark",
-            "stars": 1901,
+            "stars": 1902,
             "topics": [
               "apache-spark",
               "awesome",
@@ -1643,8 +1643,8 @@
             "id": 42376,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T19:46:17Z",
-            "open_issues": 254,
+            "last_commit": "2026-10-07T08:17:23Z",
+            "open_issues": 252,
             "owner": "symengine",
             "repo": "symengine",
             "stars": 1416,
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T19:07:11.851Z",
+    "last_updated": "2026-10-07T19:33:38.593Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
