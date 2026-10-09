@@ -156,7 +156,7 @@
             "open_issues": 92,
             "owner": "SciRuby",
             "repo": "daru",
-            "stars": 1061,
+            "stars": 1062,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
@@ -786,7 +786,7 @@
             "open_issues": 7,
             "owner": "ankane",
             "repo": "chartkick",
-            "stars": 6529,
+            "stars": 6530,
             "topics": [
               "chartjs",
               "charts",
@@ -1548,7 +1548,7 @@
             "open_issues": 6,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14670,
+            "stars": 14668,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1582,10 +1582,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-01T14:23:27Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "r0f1",
             "repo": "datascience",
-            "stars": 4676,
+            "stars": 4678,
             "topics": [
               "artificial-intelligence",
               "awesome",
@@ -1644,7 +1644,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-07T08:17:23Z",
-            "open_issues": 252,
+            "open_issues": 253,
             "owner": "symengine",
             "repo": "symengine",
             "stars": 1416,
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T19:30:06.767Z",
+    "last_updated": "2026-10-09T19:01:58.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
