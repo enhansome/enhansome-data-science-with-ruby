@@ -1,7 +1,7 @@
 <img src="header.png" align="center">
 
 \[[RubyNLP](https://github.com/arbox/nlp-with-ruby) ⭐ 1,076 | 🐛 7 | 🌐 Ruby | 📅 2023-06-27 |
-[RubyML](https://github.com/arbox/machine-learning-with-ruby) ⭐ 2,228 | 🐛 7 | 🌐 Ruby | 📅 2024-12-26 |
+[RubyML](https://github.com/arbox/machine-learning-with-ruby) ⭐ 2,229 | 🐛 7 | 🌐 Ruby | 📅 2024-12-26 |
 [RubyInterop](https://github.com/arbox/ruby-interoperability) ⭐ 42 | 🐛 1 | 🌐 Ruby | 📅 2020-11-16]
 
 # Awesome Data Science with Ruby with stars
@@ -333,4 +333,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
