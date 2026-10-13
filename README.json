@@ -19,7 +19,7 @@
             "open_issues": 52,
             "owner": "red-data-tools",
             "repo": "pycall.rb",
-            "stars": 1122,
+            "stars": 1121,
             "topics": [
               "data-science",
               "pycall",
@@ -1279,7 +1279,7 @@
             "open_issues": 49,
             "owner": "SciRuby",
             "repo": "iruby",
-            "stars": 924,
+            "stars": 925,
             "topics": [
               "interactive",
               "jupyter",
@@ -1354,8 +1354,8 @@
                 "id": 3468618,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-11T00:36:20Z",
-                "open_issues": 18,
+                "last_commit": "2026-10-13T15:08:36Z",
+                "open_issues": 17,
                 "owner": "ohler55",
                 "repo": "oj",
                 "stars": 3225,
@@ -1473,7 +1473,7 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-09-27T00:32:13Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "k1LoW",
             "repo": "awspec",
             "stars": 1174,
@@ -1548,7 +1548,7 @@
             "open_issues": 8,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14674,
+            "stars": 14675,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1644,7 +1644,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-07T08:17:23Z",
-            "open_issues": 253,
+            "open_issues": 257,
             "owner": "symengine",
             "repo": "symengine",
             "stars": 1418,
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T21:52:49.654Z",
+    "last_updated": "2026-10-13T19:58:09.502Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
