@@ -15,7 +15,7 @@
             "id": 70075851,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-08-21T05:59:51Z",
+            "last_commit": "2026-10-16T06:22:58Z",
             "open_issues": 52,
             "owner": "red-data-tools",
             "repo": "pycall.rb",
@@ -813,7 +813,7 @@
             "open_issues": 14,
             "owner": "topfunky",
             "repo": "gruff",
-            "stars": 1398,
+            "stars": 1399,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
@@ -1548,7 +1548,7 @@
             "open_issues": 9,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14676,
+            "stars": 14677,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1582,7 +1582,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-01T14:23:27Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "r0f1",
             "repo": "datascience",
             "stars": 4680,
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T17:53:33.122Z",
+    "last_updated": "2026-10-16T17:42:21.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
