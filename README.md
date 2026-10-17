@@ -96,17 +96,17 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 
 * [spreadsheet](https://github.com/zdavatz/spreadsheet) ⭐ 1,149 | 🐛 13 | 🌐 Ruby | 📅 2026-04-21 —
   manipulation library for MS Excel spreadsheets.
-* [daru](https://github.com/SciRuby/daru) ⭐ 1,062 | 🐛 92 | 🌐 Ruby | 📅 2023-08-15 —
+* [daru](https://github.com/SciRuby/daru) ⭐ 1,063 | 🐛 92 | 🌐 Ruby | 📅 2023-08-15 —
   Data Frame and Vector structures with comprehensive manipulating and visualization methods.
 * [nmatrix](https://github.com/sciruby/nmatrix) ⭐ 478 | 🐛 76 | 🌐 C++ | 📅 2024-04-24 —
   dense and sparse linear algebra library for Ruby via [SciRuby](http://sciruby.com/).
 * [numo-narray](https://github.com/ruby-numo/numo-narray) ⭐ 469 | 🐛 63 | 🌐 C | 📅 2025-06-06 —
   n-dimensional Numerical Array for Ruby.
-* [Rover](https://github.com/ankane/rover) ⭐ 387 | 🐛 2 | 🌐 Ruby | 📅 2026-08-15 —
+* [Rover](https://github.com/ankane/rover) ⭐ 388 | 🐛 2 | 🌐 Ruby | 📅 2026-08-15 —
   Data Frame and Vector structures with comprehensive manipulating and visualization methods.
 * [kdtree](https://github.com/gurgeous/kdtree) ⭐ 126 | 🐛 0 | 🌐 C | 📅 2025-05-01 —
   blazingly fast native 2d k-d tree.
-* [cumo](https://github.com/sonots/cumo) ⭐ 100 | 🐛 2 | 🌐 Ruby | 📅 2026-10-12 —
+* [cumo](https://github.com/sonots/cumo) ⭐ 100 | 🐛 1 | 🌐 Ruby | 📅 2026-10-17 —
   CUDA-aware numerical Array library with [NArray](https://github.com/ruby-numo/numo-narray) ⭐ 469 | 🐛 63 | 🌐 C | 📅 2025-06-06 similar interface.
 * [mdarray](https://github.com/rbotafogo/mdarray) ⭐ 36 | 🐛 3 | 🌐 Ruby | 📅 2017-03-31 —
   Array structure for `JRuby`.
@@ -153,7 +153,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 * [numo-linalg](https://github.com/ruby-numo/numo-linalg) ⭐ 44 | 🐛 11 | 🌐 Ruby | 📅 2025-08-25 —
   linear algebraic operations for NArray.
 * [symengine](https://github.com/symengine/symengine.rb) ⭐ 29 | 🐛 19 | 🌐 C | 📅 2019-03-14 —
-  Symbolic Computation with [SymEngine](https://github.com/symengine/symengine) ⭐ 1,418 | 🐛 259 | 🌐 C++ | 📅 2026-10-15.
+  Symbolic Computation with [SymEngine](https://github.com/symengine/symengine) ⭐ 1,419 | 🐛 259 | 🌐 C++ | 📅 2026-10-15.
 * [numo-gsl](https://github.com/ruby-numo/numo-gsl) ⭐ 23 | 🐛 4 | 🌐 Ruby | 📅 2024-06-07 —
   Math and Statistics for NArray using GSL.<sup>\[[dep: GSL](#gsl)]</sup>
 * [numo-ffte](https://github.com/ruby-numo/numo-ffte) ⭐ 5 | 🐛 0 | 🌐 C | 📅 2018-01-18 —
@@ -166,9 +166,9 @@ Comprehensive tools for Data Visualization.
 * [chartkick](https://github.com/ankane/chartkick) ⭐ 6,529 | 🐛 7 | 🌐 Ruby | 📅 2026-08-15 —
   Create beautiful JavaScript charts with one line of Ruby.
 * [Gruff](https://github.com/topfunky/gruff) ⭐ 1,399 | 🐛 14 | 🌐 Ruby | 📅 2026-09-06 —
-  graphing library built on top of [rmagick](https://github.com/rmagick/rmagick) ⭐ 731 | 🐛 5 | 🌐 C++ | 📅 2026-10-16.
+  graphing library built on top of [rmagick](https://github.com/rmagick/rmagick) ⭐ 731 | 🐛 5 | 🌐 C++ | 📅 2026-10-17.
 * [ruby-graphviz](https://github.com/glejeune/Ruby-Graphviz) ⭐ 614 | 🐛 40 | 🌐 Ruby | 📅 2025-03-16 <sup>\[[dep: Graphviz](#graphviz)]</sup>
-* [Vega](https://github.com/ankane/vega) ⭐ 304 | 🐛 0 | 🌐 Ruby | 📅 2026-05-11 —
+* [Vega](https://github.com/ankane/vega) ⭐ 305 | 🐛 0 | 🌐 Ruby | 📅 2026-05-11 —
   [Vega](https://vega.github.io/vega/) and [Vega-lite](https://vega.github.io/vega-lite/)
   based visualization for Rover.
 * <https://github.com/zverok/worldize> ⭐ 262 | 🐛 1 | 🌐 Ruby | 📅 2018-08-20
@@ -212,7 +212,7 @@ Comprehensive tools for Data Visualization.
 
 ### General formats
 
-* [oj](https://github.com/ohler55/oj) ⭐ 3,226 | 🐛 18 | 🌐 C | 📅 2026-10-13 —
+* [oj](https://github.com/ohler55/oj) ⭐ 3,226 | 🐛 20 | 🌐 C | 📅 2026-10-13 —
   High-speed JSON parser.
 * [ox](https://github.com/ohler55/ox) ⭐ 912 | 🐛 3 | 🌐 Ruby | 📅 2026-09-23 —
   Optimized for speed XML parser and object marshaller.
@@ -280,13 +280,13 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
 
 ## Related resources
 
-* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,677 | 🐛 9 | 📅 2026-07-31 -
+* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,677 | 🐛 10 | 📅 2026-07-31 -
   awesome curated list on all around Big Data.
-* [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,680 | 🐛 0 | 📅 2026-10-01
-* [Awesome Spark](https://github.com/awesome-spark/awesome-spark) ⭐ 1,902 | 🐛 24 | 🌐 Shell | 📅 2026-02-27 —
+* [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,680 | 🐛 1 | 📅 2026-10-01
+* [Awesome Spark](https://github.com/awesome-spark/awesome-spark) ⭐ 1,902 | 🐛 25 | 🌐 Shell | 📅 2026-02-27 —
   awesome list on Apache Spark goodies.
 * <a name="symengine"></a>
-  [SymEngine](https://github.com/symengine/symengine) ⭐ 1,418 | 🐛 259 | 🌐 C++ | 📅 2026-10-15
+  [SymEngine](https://github.com/symengine/symengine) ⭐ 1,419 | 🐛 259 | 🌐 C++ | 📅 2026-10-15
 * <a name="imagemagic"></a>
   [ImageMagick](https://imagemagick.org/index.php)
 * <a name="gsl"></a>
@@ -333,4 +333,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
