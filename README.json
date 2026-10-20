@@ -263,7 +263,7 @@
             "id": 110840073,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-19T12:14:24Z",
+            "last_commit": "2026-10-19T22:28:36Z",
             "open_issues": 1,
             "owner": "sonots",
             "repo": "cumo",
@@ -966,7 +966,7 @@
             "open_issues": 8,
             "owner": "red-data-tools",
             "repo": "matplotlib.rb",
-            "stars": 98,
+            "stars": 99,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
@@ -1354,8 +1354,8 @@
                 "id": 3468618,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-17T23:59:12Z",
-                "open_issues": 19,
+                "last_commit": "2026-10-19T22:07:16Z",
+                "open_issues": 17,
                 "owner": "ohler55",
                 "repo": "oj",
                 "stars": 3227,
@@ -1548,7 +1548,7 @@
             "open_issues": 10,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14680,
+            "stars": 14683,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1647,7 +1647,7 @@
             "open_issues": 261,
             "owner": "symengine",
             "repo": "symengine",
-            "stars": 1419,
+            "stars": 1420,
             "topics": [
               "c-plus-plus",
               "computer-algebra",
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T19:30:02.709Z",
+    "last_updated": "2026-10-20T18:07:33.128Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
