@@ -87,7 +87,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 
 ## Distributed Computing
 
-* [ruby-spark](https://github.com/ondra-m/ruby-spark) ⭐ 226 | 🐛 23 | 🌐 Ruby | 📅 2017-08-31 —
+* [ruby-spark](https://github.com/ondra-m/ruby-spark) ⭐ 225 | 🐛 23 | 🌐 Ruby | 📅 2017-08-31 —
   Ruby Interface to [Apache Spark](https://spark.apache.org/) 1.x.x.
 * [jruby-spark](https://github.com/chyh1990/jruby-spark) ⭐ 7 | 🐛 2 | 🌐 Java | 📅 2016-04-27 —
   JRuby based bindings for [Apache Spark](https://spark.apache.org/).
@@ -166,7 +166,7 @@ Comprehensive tools for Data Visualization.
 * [chartkick](https://github.com/ankane/chartkick) ⭐ 6,528 | 🐛 7 | 🌐 Ruby | 📅 2026-08-15 —
   Create beautiful JavaScript charts with one line of Ruby.
 * [Gruff](https://github.com/topfunky/gruff) ⭐ 1,399 | 🐛 14 | 🌐 Ruby | 📅 2026-09-06 —
-  graphing library built on top of [rmagick](https://github.com/rmagick/rmagick) ⭐ 731 | 🐛 5 | 🌐 C++ | 📅 2026-10-19.
+  graphing library built on top of [rmagick](https://github.com/rmagick/rmagick) ⭐ 731 | 🐛 5 | 🌐 C++ | 📅 2026-10-21.
 * [ruby-graphviz](https://github.com/glejeune/Ruby-Graphviz) ⭐ 614 | 🐛 40 | 🌐 Ruby | 📅 2025-03-16 <sup>\[[dep: Graphviz](#graphviz)]</sup>
 * [Vega](https://github.com/ankane/vega) ⭐ 305 | 🐛 0 | 🌐 Ruby | 📅 2026-05-11 —
   [Vega](https://vega.github.io/vega/) and [Vega-lite](https://vega.github.io/vega-lite/)
@@ -280,10 +280,10 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
 
 ## Related resources
 
-* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,683 | 🐛 10 | 📅 2026-07-31 -
+* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,685 | 🐛 0 | 📅 2026-10-21 -
   awesome curated list on all around Big Data.
-* [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,681 | 🐛 0 | 📅 2026-10-17
-* [Awesome Spark](https://github.com/awesome-spark/awesome-spark) ⭐ 1,902 | 🐛 25 | 🌐 Shell | 📅 2026-02-27 —
+* [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,682 | 🐛 0 | 📅 2026-10-17
+* [Awesome Spark](https://github.com/awesome-spark/awesome-spark) ⭐ 1,901 | 🐛 25 | 🌐 Shell | 📅 2026-02-27 —
   awesome list on Apache Spark goodies.
 * <a name="symengine"></a>
   [SymEngine](https://github.com/symengine/symengine) ⭐ 1,420 | 🐛 261 | 🌐 C++ | 📅 2026-10-19
@@ -333,4 +333,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
