@@ -1,7 +1,7 @@
 <img src="header.png" align="center">
 
-\[[RubyNLP](https://github.com/arbox/nlp-with-ruby) ⭐ 1,076 | 🐛 9 | 🌐 Ruby | 📅 2023-06-27 |
-[RubyML](https://github.com/arbox/machine-learning-with-ruby) ⭐ 2,230 | 🐛 8 | 🌐 Ruby | 📅 2024-12-26 |
+\[[RubyNLP](https://github.com/arbox/nlp-with-ruby) ⭐ 1,077 | 🐛 9 | 🌐 Ruby | 📅 2023-06-27 |
+[RubyML](https://github.com/arbox/machine-learning-with-ruby) ⭐ 2,231 | 🐛 8 | 🌐 Ruby | 📅 2024-12-26 |
 [RubyInterop](https://github.com/arbox/ruby-interoperability) ⭐ 42 | 🐛 1 | 🌐 Ruby | 📅 2020-11-16]
 
 # Awesome Data Science with Ruby with stars
@@ -201,7 +201,7 @@ Comprehensive tools for Data Visualization.
 
 ## Interactive Computing
 
-* [iruby](https://github.com/sciruby/iruby) ⭐ 925 | 🐛 49 | 🌐 Ruby | 📅 2026-06-30 —
+* [iruby](https://github.com/sciruby/iruby) ⭐ 926 | 🐛 49 | 🌐 Ruby | 📅 2026-06-30 —
   Ruby kernel for [Jupyter](https://jupyter.org/).
 * [jupyter\_on\_rails](https://github.com/Yuki-Inoue/jupyter_on_rails/) ⭐ 89 | 🐛 11 | 🌐 Ruby | 📅 2024-03-19 —
   Another integration library for IRuby and Rails.
@@ -280,10 +280,10 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
 
 ## Related resources
 
-* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,695 | 🐛 2 | 📅 2026-10-23 -
+* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,699 | 🐛 2 | 📅 2026-10-23 -
   awesome curated list on all around Big Data.
-* [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,685 | 🐛 0 | 📅 2026-10-17
-* [Awesome Spark](https://github.com/awesome-spark/awesome-spark) ⭐ 1,901 | 🐛 25 | 🌐 Shell | 📅 2026-02-27 —
+* [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,686 | 🐛 0 | 📅 2026-10-17
+* [Awesome Spark](https://github.com/awesome-spark/awesome-spark) ⭐ 1,903 | 🐛 25 | 🌐 Shell | 📅 2026-02-27 —
   awesome list on Apache Spark goodies.
 * <a name="symengine"></a>
   [SymEngine](https://github.com/symengine/symengine) ⭐ 1,422 | 🐛 259 | 🌐 C++ | 📅 2026-10-25
@@ -333,4 +333,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._

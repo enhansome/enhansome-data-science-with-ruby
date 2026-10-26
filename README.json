@@ -1279,7 +1279,7 @@
             "open_issues": 49,
             "owner": "SciRuby",
             "repo": "iruby",
-            "stars": 925,
+            "stars": 926,
             "topics": [
               "interactive",
               "jupyter",
@@ -1548,7 +1548,7 @@
             "open_issues": 2,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14695,
+            "stars": 14699,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1585,7 +1585,7 @@
             "open_issues": 0,
             "owner": "r0f1",
             "repo": "datascience",
-            "stars": 4685,
+            "stars": 4686,
             "topics": [
               "artificial-intelligence",
               "awesome",
@@ -1621,7 +1621,7 @@
             "open_issues": 25,
             "owner": "awesome-spark",
             "repo": "awesome-spark",
-            "stars": 1901,
+            "stars": 1903,
             "topics": [
               "apache-spark",
               "awesome",
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T17:14:21.957Z",
+    "last_updated": "2026-10-26T19:35:26.926Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
@@ -1673,7 +1673,7 @@
       "open_issues": 1,
       "owner": "arbox",
       "repo": "data-science-with-ruby",
-      "stars": 722,
+      "stars": 723,
       "topics": [
         "awesome",
         "awesome-list",
