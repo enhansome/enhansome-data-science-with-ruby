@@ -1476,7 +1476,7 @@
             "open_issues": 40,
             "owner": "k1LoW",
             "repo": "awspec",
-            "stars": 1173,
+            "stars": 1172,
             "topics": [
               "aws",
               "rspec"
@@ -1548,7 +1548,7 @@
             "open_issues": 2,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14699,
+            "stars": 14701,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1582,10 +1582,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-17T20:55:45Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "r0f1",
             "repo": "datascience",
-            "stars": 4686,
+            "stars": 4685,
             "topics": [
               "artificial-intelligence",
               "awesome",
@@ -1647,7 +1647,7 @@
             "open_issues": 259,
             "owner": "symengine",
             "repo": "symengine",
-            "stars": 1422,
+            "stars": 1423,
             "topics": [
               "c-plus-plus",
               "computer-algebra",
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T19:35:26.926Z",
+    "last_updated": "2026-10-27T18:59:54.433Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
