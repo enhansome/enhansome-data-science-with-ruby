@@ -128,7 +128,7 @@
             "open_issues": 13,
             "owner": "zdavatz",
             "repo": "spreadsheet",
-            "stars": 1149,
+            "stars": 1148,
             "topics": [
               "excel",
               "gplv3",
@@ -195,7 +195,7 @@
             "language": "C",
             "license": "BSD-3-Clause",
             "last_commit": "2025-06-06T02:42:46Z",
-            "open_issues": 63,
+            "open_issues": 61,
             "owner": "ruby-numo",
             "repo": "numo-narray",
             "stars": 469,
@@ -786,7 +786,7 @@
             "open_issues": 7,
             "owner": "ankane",
             "repo": "chartkick",
-            "stars": 6528,
+            "stars": 6527,
             "topics": [
               "chartjs",
               "charts",
@@ -1385,7 +1385,7 @@
                 "language": "Ruby",
                 "license": "MIT",
                 "last_commit": "2026-09-23T11:53:24Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "ohler55",
                 "repo": "ox",
                 "stars": 912,
@@ -1647,7 +1647,7 @@
             "open_issues": 259,
             "owner": "symengine",
             "repo": "symengine",
-            "stars": 1423,
+            "stars": 1424,
             "topics": [
               "c-plus-plus",
               "computer-algebra",
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T18:59:54.433Z",
+    "last_updated": "2026-10-28T19:08:11.228Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
