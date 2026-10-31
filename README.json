@@ -16,7 +16,7 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-10-16T06:22:58Z",
-            "open_issues": 52,
+            "open_issues": 53,
             "owner": "red-data-tools",
             "repo": "pycall.rb",
             "stars": 1120,
@@ -263,7 +263,7 @@
             "id": 110840073,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-29T14:07:01Z",
+            "last_commit": "2026-10-31T08:26:26Z",
             "open_issues": 1,
             "owner": "sonots",
             "repo": "cumo",
@@ -1354,11 +1354,11 @@
                 "id": 3468618,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-30T14:50:05Z",
-                "open_issues": 18,
+                "last_commit": "2026-10-31T13:18:31Z",
+                "open_issues": 21,
                 "owner": "ohler55",
                 "repo": "oj",
-                "stars": 3227,
+                "stars": 3228,
                 "topics": [
                   "c",
                   "json",
@@ -1647,7 +1647,7 @@
             "open_issues": 258,
             "owner": "symengine",
             "repo": "symengine",
-            "stars": 1425,
+            "stars": 1426,
             "topics": [
               "c-plus-plus",
               "computer-algebra",
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T18:53:34.481Z",
+    "last_updated": "2026-10-31T17:57:33.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
