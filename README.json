@@ -263,7 +263,7 @@
             "id": 110840073,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-02T13:47:07Z",
+            "last_commit": "2026-11-03T06:31:07Z",
             "open_issues": 1,
             "owner": "sonots",
             "repo": "cumo",
@@ -1354,8 +1354,8 @@
                 "id": 3468618,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-11-02T15:23:01Z",
-                "open_issues": 19,
+                "last_commit": "2026-11-03T18:33:02Z",
+                "open_issues": 17,
                 "owner": "ohler55",
                 "repo": "oj",
                 "stars": 3228,
@@ -1548,7 +1548,7 @@
             "open_issues": 1,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14714,
+            "stars": 14715,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1643,8 +1643,8 @@
             "id": 42376,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-30T13:43:42Z",
-            "open_issues": 257,
+            "last_commit": "2026-11-03T17:19:49Z",
+            "open_issues": 255,
             "owner": "symengine",
             "repo": "symengine",
             "stars": 1426,
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:28:47.645Z",
+    "last_updated": "2026-11-03T20:17:20.458Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
