@@ -1385,7 +1385,7 @@
                 "language": "Ruby",
                 "license": "MIT",
                 "last_commit": "2026-11-02T12:59:18Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "ohler55",
                 "repo": "ox",
                 "stars": 912,
@@ -1618,10 +1618,10 @@
             "language": "Shell",
             "license": "CC0-1.0",
             "last_commit": "2026-02-27T08:06:58Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "awesome-spark",
             "repo": "awesome-spark",
-            "stars": 1904,
+            "stars": 1905,
             "topics": [
               "apache-spark",
               "awesome",
@@ -1643,8 +1643,8 @@
             "id": 42376,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T17:19:49Z",
-            "open_issues": 255,
+            "last_commit": "2026-11-04T16:24:35Z",
+            "open_issues": 252,
             "owner": "symengine",
             "repo": "symengine",
             "stars": 1426,
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:17:20.458Z",
+    "last_updated": "2026-11-04T20:33:37.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
