@@ -212,7 +212,7 @@ Comprehensive tools for Data Visualization.
 
 ### General formats
 
-* [oj](https://github.com/ohler55/oj) ⭐ 3,229 | 🐛 20 | 🌐 C | 📅 2026-11-07 —
+* [oj](https://github.com/ohler55/oj) ⭐ 3,229 | 🐛 17 | 🌐 C | 📅 2026-11-08 —
   High-speed JSON parser.
 * [ox](https://github.com/ohler55/ox) ⭐ 912 | 🐛 3 | 🌐 Ruby | 📅 2026-11-07 —
   Optimized for speed XML parser and object marshaller.
@@ -280,9 +280,9 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
 
 ## Related resources
 
-* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,720 | 🐛 0 | 📅 2026-11-06 -
+* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,721 | 🐛 1 | 📅 2026-11-06 -
   awesome curated list on all around Big Data.
-* [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,689 | 🐛 0 | 📅 2026-10-29
+* [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,690 | 🐛 0 | 📅 2026-10-29
 * [Awesome Spark](https://github.com/awesome-spark/awesome-spark) ⭐ 1,905 | 🐛 26 | 🌐 Shell | 📅 2026-02-27 —
   awesome list on Apache Spark goodies.
 * <a name="symengine"></a>
@@ -333,4 +333,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
