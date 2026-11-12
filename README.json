@@ -15,8 +15,8 @@
             "id": 70075851,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-02T04:56:58Z",
-            "open_issues": 55,
+            "last_commit": "2026-11-11T03:54:07Z",
+            "open_issues": 53,
             "owner": "red-data-tools",
             "repo": "pycall.rb",
             "stars": 1121,
@@ -786,7 +786,7 @@
             "open_issues": 7,
             "owner": "ankane",
             "repo": "chartkick",
-            "stars": 6528,
+            "stars": 6526,
             "topics": [
               "chartjs",
               "charts",
@@ -1354,7 +1354,7 @@
                 "id": 3468618,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-11-10T13:26:30Z",
+                "last_commit": "2026-11-11T14:05:08Z",
                 "open_issues": 16,
                 "owner": "ohler55",
                 "repo": "oj",
@@ -1548,7 +1548,7 @@
             "open_issues": 4,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14728,
+            "stars": 14734,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1582,7 +1582,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-29T20:09:17Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "r0f1",
             "repo": "datascience",
             "stars": 4688,
@@ -1644,7 +1644,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-11-05T16:44:16Z",
-            "open_issues": 252,
+            "open_issues": 250,
             "owner": "symengine",
             "repo": "symengine",
             "stars": 1429,
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:37:27.915Z",
+    "last_updated": "2026-11-12T21:07:57.745Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
@@ -1673,7 +1673,7 @@
       "open_issues": 1,
       "owner": "arbox",
       "repo": "data-science-with-ruby",
-      "stars": 723,
+      "stars": 724,
       "topics": [
         "awesome",
         "awesome-list",
