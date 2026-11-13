@@ -13,10 +13,10 @@
             "description": "Calling Python functions from the Ruby language",
             "homepage": null,
             "id": 70075851,
-            "language": "C",
+            "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-11T03:54:07Z",
-            "open_issues": 53,
+            "last_commit": "2026-11-13T02:28:28Z",
+            "open_issues": 51,
             "owner": "red-data-tools",
             "repo": "pycall.rb",
             "stars": 1121,
@@ -786,7 +786,7 @@
             "open_issues": 7,
             "owner": "ankane",
             "repo": "chartkick",
-            "stars": 6526,
+            "stars": 6527,
             "topics": [
               "chartjs",
               "charts",
@@ -1354,7 +1354,7 @@
                 "id": 3468618,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-11-11T14:05:08Z",
+                "last_commit": "2026-11-13T13:07:30Z",
                 "open_issues": 16,
                 "owner": "ohler55",
                 "repo": "oj",
@@ -1388,7 +1388,7 @@
                 "open_issues": 3,
                 "owner": "ohler55",
                 "repo": "ox",
-                "stars": 912,
+                "stars": 911,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:28.879Z"
@@ -1544,11 +1544,11 @@
             "id": 21500692,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-06T15:10:05Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-13T15:09:32Z",
+            "open_issues": 0,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14734,
+            "stars": 14736,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1585,7 +1585,7 @@
             "open_issues": 1,
             "owner": "r0f1",
             "repo": "datascience",
-            "stars": 4688,
+            "stars": 4690,
             "topics": [
               "artificial-intelligence",
               "awesome",
@@ -1621,7 +1621,7 @@
             "open_issues": 26,
             "owner": "awesome-spark",
             "repo": "awesome-spark",
-            "stars": 1905,
+            "stars": 1904,
             "topics": [
               "apache-spark",
               "awesome",
@@ -1643,8 +1643,8 @@
             "id": 42376,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-05T16:44:16Z",
-            "open_issues": 250,
+            "last_commit": "2026-11-13T18:15:25Z",
+            "open_issues": 249,
             "owner": "symengine",
             "repo": "symengine",
             "stars": 1429,
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:07:57.745Z",
+    "last_updated": "2026-11-13T20:39:52.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
