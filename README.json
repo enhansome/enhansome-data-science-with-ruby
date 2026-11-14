@@ -15,8 +15,8 @@
             "id": 70075851,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-13T02:28:28Z",
-            "open_issues": 51,
+            "last_commit": "2026-11-14T14:55:16Z",
+            "open_issues": 49,
             "owner": "red-data-tools",
             "repo": "pycall.rb",
             "stars": 1121,
@@ -1354,7 +1354,7 @@
                 "id": 3468618,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-11-13T13:07:30Z",
+                "last_commit": "2026-11-14T16:49:17Z",
                 "open_issues": 16,
                 "owner": "ohler55",
                 "repo": "oj",
@@ -1384,7 +1384,7 @@
                 "id": 1345214,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-11-07T13:08:55Z",
+                "last_commit": "2026-11-14T16:51:01Z",
                 "open_issues": 3,
                 "owner": "ohler55",
                 "repo": "ox",
@@ -1548,7 +1548,7 @@
             "open_issues": 0,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14736,
+            "stars": 14738,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1585,7 +1585,7 @@
             "open_issues": 1,
             "owner": "r0f1",
             "repo": "datascience",
-            "stars": 4690,
+            "stars": 4691,
             "topics": [
               "artificial-intelligence",
               "awesome",
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T20:39:52.070Z",
+    "last_updated": "2026-11-14T18:52:06.968Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
