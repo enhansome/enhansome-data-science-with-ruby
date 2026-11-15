@@ -19,7 +19,7 @@
             "open_issues": 49,
             "owner": "red-data-tools",
             "repo": "pycall.rb",
-            "stars": 1121,
+            "stars": 1120,
             "topics": [
               "data-science",
               "pycall",
@@ -225,7 +225,7 @@
             "open_issues": 2,
             "owner": "ankane",
             "repo": "rover",
-            "stars": 388,
+            "stars": 387,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
@@ -1354,7 +1354,7 @@
                 "id": 3468618,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-11-14T16:49:17Z",
+                "last_commit": "2026-11-15T15:42:54Z",
                 "open_issues": 16,
                 "owner": "ohler55",
                 "repo": "oj",
@@ -1472,7 +1472,7 @@
             "id": 39773026,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-01T00:21:06Z",
+            "last_commit": "2026-11-15T00:18:30Z",
             "open_issues": 40,
             "owner": "k1LoW",
             "repo": "awspec",
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T18:52:06.968Z",
+    "last_updated": "2026-11-15T19:28:29.577Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",

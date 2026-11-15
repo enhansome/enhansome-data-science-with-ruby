@@ -74,7 +74,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 
 <!--- TODO: Add the talk by @mrkn --->
 
-* [pycall](https://github.com/mrkn/pycall.rb) ⭐ 1,121 | 🐛 49 | 🌐 Ruby | 📅 2026-11-14 — Bridge into the Python world.
+* [pycall](https://github.com/mrkn/pycall.rb) ⭐ 1,120 | 🐛 49 | 🌐 Ruby | 📅 2026-11-14 — Bridge into the Python world.
 * [rserve-client](https://github.com/clbustos/Rserve-Ruby-client) ⭐ 128 | 🐛 13 | 🌐 Ruby | 📅 2024-05-03 —
   Ruby connector for [Rserve](http://www.rforge.net/Rserve/), R's binary server.
 
@@ -102,7 +102,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
   dense and sparse linear algebra library for Ruby via [SciRuby](http://sciruby.com/).
 * [numo-narray](https://github.com/ruby-numo/numo-narray) ⭐ 469 | 🐛 61 | 🌐 C | 📅 2025-06-06 —
   n-dimensional Numerical Array for Ruby.
-* [Rover](https://github.com/ankane/rover) ⭐ 388 | 🐛 2 | 🌐 Ruby | 📅 2026-10-17 —
+* [Rover](https://github.com/ankane/rover) ⭐ 387 | 🐛 2 | 🌐 Ruby | 📅 2026-10-17 —
   Data Frame and Vector structures with comprehensive manipulating and visualization methods.
 * [kdtree](https://github.com/gurgeous/kdtree) ⭐ 126 | 🐛 0 | 🌐 C | 📅 2025-05-01 —
   blazingly fast native 2d k-d tree.
@@ -212,7 +212,7 @@ Comprehensive tools for Data Visualization.
 
 ### General formats
 
-* [oj](https://github.com/ohler55/oj) ⭐ 3,229 | 🐛 16 | 🌐 C | 📅 2026-11-14 —
+* [oj](https://github.com/ohler55/oj) ⭐ 3,229 | 🐛 16 | 🌐 C | 📅 2026-11-15 —
   High-speed JSON parser.
 * [ox](https://github.com/ohler55/ox) ⭐ 911 | 🐛 3 | 🌐 Ruby | 📅 2026-11-14 —
   Optimized for speed XML parser and object marshaller.
@@ -236,7 +236,7 @@ Comprehensive tools for Data Visualization.
 
 ## Provisioning Infrastructure
 
-* <https://github.com/k1LoW/awspec> ⭐ 1,172 | 🐛 40 | 🌐 Ruby | 📅 2026-11-01
+* <https://github.com/k1LoW/awspec> ⭐ 1,172 | 🐛 40 | 🌐 Ruby | 📅 2026-11-15
 * <https://github.com/mrkn/gpu-instance> ⭐ 0 | 🐛 0 | 🌐 Ruby | 📅 2016-05-15
 * <https://github.com/mrkn/computing_node> ⭐ 0 | 🐛 5 | 🌐 Ruby | 📅 2015-02-17
 
@@ -333,4 +333,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
