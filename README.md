@@ -174,7 +174,7 @@ Comprehensive tools for Data Visualization.
 * <https://github.com/zverok/worldize> ⭐ 262 | 🐛 1 | 🌐 Ruby | 📅 2018-08-20
 * [nyaplot](https://github.com/domitry/nyaplot) ⭐ 222 | 🐛 38 | 🌐 Ruby | 📅 2016-06-24
 * [gnuplot](https://github.com/rdp/ruby_gnuplot/tree/master) ⭐ 218 | 🐛 17 | 🌐 Ruby | 📅 2019-12-20 <sup>\[[dep: gnuplot](#gnuplot)]</sup>
-* [mathematical](https://github.com/gjtorikian/mathematical) ⭐ 170 | 🐛 6 | 🌐 Ruby | 📅 2026-06-19 —
+* [mathematical](https://github.com/gjtorikian/mathematical) ⭐ 170 | 🐛 7 | 🌐 Ruby | 📅 2026-06-19 —
   PNG and MathML renderings for your equations.
 * [matplotlib](https://github.com/mrkn/matplotlib.rb) ⭐ 99 | 🐛 8 | 🌐 Ruby | 📅 2023-03-16 —
   Ruby based wrapper around [matplotlib](https://matplotlib.org/). <sup>\[[dep: matplotlib](#matplotlib)]</sup>
@@ -214,7 +214,7 @@ Comprehensive tools for Data Visualization.
 
 * [oj](https://github.com/ohler55/oj) ⭐ 3,229 | 🐛 16 | 🌐 C | 📅 2026-11-15 —
   High-speed JSON parser.
-* [ox](https://github.com/ohler55/ox) ⭐ 911 | 🐛 3 | 🌐 Ruby | 📅 2026-11-14 —
+* [ox](https://github.com/ohler55/ox) ⭐ 911 | 🐛 3 | 🌐 Ruby | 📅 2026-11-17 —
   Optimized for speed XML parser and object marshaller.
 * <https://github.com/fiksu/rcsv>
 * Markdown
@@ -236,7 +236,7 @@ Comprehensive tools for Data Visualization.
 
 ## Provisioning Infrastructure
 
-* <https://github.com/k1LoW/awspec> ⭐ 1,172 | 🐛 40 | 🌐 Ruby | 📅 2026-11-15
+* <https://github.com/k1LoW/awspec> ⭐ 1,172 | 🐛 39 | 🌐 Ruby | 📅 2026-11-15
 * <https://github.com/mrkn/gpu-instance> ⭐ 0 | 🐛 0 | 🌐 Ruby | 📅 2016-05-15
 * <https://github.com/mrkn/computing_node> ⭐ 0 | 🐛 5 | 🌐 Ruby | 📅 2015-02-17
 
@@ -280,9 +280,9 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
 
 ## Related resources
 
-* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,741 | 🐛 0 | 📅 2026-11-13 -
+* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,740 | 🐛 0 | 📅 2026-11-13 -
   awesome curated list on all around Big Data.
-* [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,692 | 🐛 1 | 📅 2026-10-29
+* [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,694 | 🐛 1 | 📅 2026-10-29
 * [Awesome Spark](https://github.com/awesome-spark/awesome-spark) ⭐ 1,904 | 🐛 26 | 🌐 Shell | 📅 2026-02-27 —
   awesome list on Apache Spark goodies.
 * <a name="symengine"></a>
@@ -333,4 +333,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._

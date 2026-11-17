@@ -936,7 +936,7 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-06-19T14:58:39Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "gjtorikian",
             "repo": "mathematical",
             "stars": 170,
@@ -1384,7 +1384,7 @@
                 "id": 1345214,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-11-14T16:51:01Z",
+                "last_commit": "2026-11-17T15:11:57Z",
                 "open_issues": 3,
                 "owner": "ohler55",
                 "repo": "ox",
@@ -1473,7 +1473,7 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-11-15T00:18:30Z",
-            "open_issues": 40,
+            "open_issues": 39,
             "owner": "k1LoW",
             "repo": "awspec",
             "stars": 1172,
@@ -1548,7 +1548,7 @@
             "open_issues": 0,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14741,
+            "stars": 14740,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1585,7 +1585,7 @@
             "open_issues": 1,
             "owner": "r0f1",
             "repo": "datascience",
-            "stars": 4692,
+            "stars": 4694,
             "topics": [
               "artificial-intelligence",
               "awesome",
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:03:03.554Z",
+    "last_updated": "2026-11-17T21:55:18.473Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
