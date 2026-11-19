@@ -19,7 +19,7 @@
             "open_issues": 50,
             "owner": "red-data-tools",
             "repo": "pycall.rb",
-            "stars": 1120,
+            "stars": 1119,
             "topics": [
               "data-science",
               "pycall",
@@ -156,7 +156,7 @@
             "open_issues": 92,
             "owner": "SciRuby",
             "repo": "daru",
-            "stars": 1062,
+            "stars": 1061,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:28.879Z"
@@ -786,7 +786,7 @@
             "open_issues": 7,
             "owner": "ankane",
             "repo": "chartkick",
-            "stars": 6526,
+            "stars": 6525,
             "topics": [
               "chartjs",
               "charts",
@@ -1354,11 +1354,11 @@
                 "id": 3468618,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-11-18T14:27:23Z",
+                "last_commit": "2026-11-19T13:55:03Z",
                 "open_issues": 16,
                 "owner": "ohler55",
                 "repo": "oj",
-                "stars": 3229,
+                "stars": 3228,
                 "topics": [
                   "c",
                   "json",
@@ -1384,7 +1384,7 @@
                 "id": 1345214,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-11-18T14:14:44Z",
+                "last_commit": "2026-11-19T13:58:07Z",
                 "open_issues": 3,
                 "owner": "ohler55",
                 "repo": "ox",
@@ -1548,7 +1548,7 @@
             "open_issues": 0,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14742,
+            "stars": 14741,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1647,7 +1647,7 @@
             "open_issues": 250,
             "owner": "symengine",
             "repo": "symengine",
-            "stars": 1430,
+            "stars": 1429,
             "topics": [
               "c-plus-plus",
               "computer-algebra",
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T21:37:17.971Z",
+    "last_updated": "2026-11-19T21:51:04.046Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
@@ -1673,7 +1673,7 @@
       "open_issues": 1,
       "owner": "arbox",
       "repo": "data-science-with-ruby",
-      "stars": 724,
+      "stars": 723,
       "topics": [
         "awesome",
         "awesome-list",
