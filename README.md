@@ -74,7 +74,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 
 <!--- TODO: Add the talk by @mrkn --->
 
-* [pycall](https://github.com/mrkn/pycall.rb) ⭐ 1,119 | 🐛 50 | 🌐 Ruby | 📅 2026-11-14 — Bridge into the Python world.
+* [pycall](https://github.com/mrkn/pycall.rb) ⭐ 1,120 | 🐛 50 | 🌐 Ruby | 📅 2026-11-14 — Bridge into the Python world.
 * [rserve-client](https://github.com/clbustos/Rserve-Ruby-client) ⭐ 128 | 🐛 13 | 🌐 Ruby | 📅 2024-05-03 —
   Ruby connector for [Rserve](http://www.rforge.net/Rserve/), R's binary server.
 
@@ -106,7 +106,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
   Data Frame and Vector structures with comprehensive manipulating and visualization methods.
 * [kdtree](https://github.com/gurgeous/kdtree) ⭐ 126 | 🐛 0 | 🌐 C | 📅 2025-05-01 —
   blazingly fast native 2d k-d tree.
-* [cumo](https://github.com/sonots/cumo) ⭐ 100 | 🐛 1 | 🌐 Ruby | 📅 2026-11-20 —
+* [cumo](https://github.com/sonots/cumo) ⭐ 100 | 🐛 1 | 🌐 Ruby | 📅 2026-11-21 —
   CUDA-aware numerical Array library with [NArray](https://github.com/ruby-numo/numo-narray) ⭐ 469 | 🐛 61 | 🌐 C | 📅 2025-06-06 similar interface.
 * [mdarray](https://github.com/rbotafogo/mdarray) ⭐ 36 | 🐛 3 | 🌐 Ruby | 📅 2017-03-31 —
   Array structure for `JRuby`.
@@ -119,7 +119,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 * [red-datasets](https://github.com/red-data-tools/red-datasets) ⭐ 33 | 🐛 75 | 🌐 Ruby | 📅 2026-11-01 —
   Growing collection of publicly available data sets such as CIFAR-10, Iris, MNIST etc.
 * [rdatasets](https://github.com/kojix2/rdatasets) ⚠️ Archived —
-  Data sets available in R via [Rdatasets](https://github.com/vincentarelbundock/Rdatasets) ⭐ 424 | 🐛 0 | 🌐 HTML | 📅 2026-06-15.
+  Data sets available in R via [Rdatasets](https://github.com/vincentarelbundock/Rdatasets) ⭐ 425 | 🐛 0 | 🌐 HTML | 📅 2026-06-15.
 
 ## Statistics
 
@@ -212,9 +212,9 @@ Comprehensive tools for Data Visualization.
 
 ### General formats
 
-* [oj](https://github.com/ohler55/oj) ⭐ 3,228 | 🐛 16 | 🌐 C | 📅 2026-11-19 —
+* [oj](https://github.com/ohler55/oj) ⭐ 3,228 | 🐛 16 | 🌐 C | 📅 2026-11-21 —
   High-speed JSON parser.
-* [ox](https://github.com/ohler55/ox) ⭐ 911 | 🐛 3 | 🌐 Ruby | 📅 2026-11-19 —
+* [ox](https://github.com/ohler55/ox) ⭐ 911 | 🐛 3 | 🌐 Ruby | 📅 2026-11-21 —
   Optimized for speed XML parser and object marshaller.
 * <https://github.com/fiksu/rcsv>
 * Markdown
@@ -282,7 +282,7 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
 
 * [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,744 | 🐛 0 | 📅 2026-11-13 -
   awesome curated list on all around Big Data.
-* [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,696 | 🐛 2 | 📅 2026-10-29
+* [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,695 | 🐛 2 | 📅 2026-10-29
 * [Awesome Spark](https://github.com/awesome-spark/awesome-spark) ⭐ 1,903 | 🐛 26 | 🌐 Shell | 📅 2026-02-27 —
   awesome list on Apache Spark goodies.
 * <a name="symengine"></a>
@@ -333,4 +333,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
