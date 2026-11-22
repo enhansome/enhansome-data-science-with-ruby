@@ -263,7 +263,7 @@
             "id": 110840073,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-21T06:29:35Z",
+            "last_commit": "2026-11-22T15:30:20Z",
             "open_issues": 1,
             "owner": "sonots",
             "repo": "cumo",
@@ -786,7 +786,7 @@
             "open_issues": 7,
             "owner": "ankane",
             "repo": "chartkick",
-            "stars": 6525,
+            "stars": 6524,
             "topics": [
               "chartjs",
               "charts",
@@ -1354,8 +1354,8 @@
                 "id": 3468618,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-11-21T00:32:25Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-22T13:23:56Z",
+                "open_issues": 17,
                 "owner": "ohler55",
                 "repo": "oj",
                 "stars": 3228,
@@ -1385,7 +1385,7 @@
                 "language": "Ruby",
                 "license": "MIT",
                 "last_commit": "2026-11-21T14:00:10Z",
-                "open_issues": 3,
+                "open_issues": 5,
                 "owner": "ohler55",
                 "repo": "ox",
                 "stars": 911,
@@ -1548,7 +1548,7 @@
             "open_issues": 0,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14744,
+            "stars": 14745,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1582,10 +1582,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-29T20:09:17Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "r0f1",
             "repo": "datascience",
-            "stars": 4695,
+            "stars": 4697,
             "topics": [
               "artificial-intelligence",
               "awesome",
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:15:42.785Z",
+    "last_updated": "2026-11-22T20:29:11.199Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical Data Science with Ruby based tools.",
