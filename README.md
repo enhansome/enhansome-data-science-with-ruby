@@ -153,7 +153,7 @@ Leveraging libraries from R, Python, and Julia helps Ruby to solve your tasks!
 * [numo-linalg](https://github.com/ruby-numo/numo-linalg) ⭐ 44 | 🐛 11 | 🌐 Ruby | 📅 2025-08-25 —
   linear algebraic operations for NArray.
 * [symengine](https://github.com/symengine/symengine.rb) ⭐ 29 | 🐛 19 | 🌐 C | 📅 2019-03-14 —
-  Symbolic Computation with [SymEngine](https://github.com/symengine/symengine) ⭐ 1,429 | 🐛 250 | 🌐 C++ | 📅 2026-11-13.
+  Symbolic Computation with [SymEngine](https://github.com/symengine/symengine) ⭐ 1,430 | 🐛 250 | 🌐 C++ | 📅 2026-11-13.
 * [numo-gsl](https://github.com/ruby-numo/numo-gsl) ⭐ 23 | 🐛 4 | 🌐 Ruby | 📅 2024-06-07 —
   Math and Statistics for NArray using GSL.<sup>\[[dep: GSL](#gsl)]</sup>
 * [numo-ffte](https://github.com/ruby-numo/numo-ffte) ⭐ 5 | 🐛 0 | 🌐 C | 📅 2018-01-18 —
@@ -166,7 +166,7 @@ Comprehensive tools for Data Visualization.
 * [chartkick](https://github.com/ankane/chartkick) ⭐ 6,524 | 🐛 7 | 🌐 Ruby | 📅 2026-10-22 —
   Create beautiful JavaScript charts with one line of Ruby.
 * [Gruff](https://github.com/topfunky/gruff) ⭐ 1,398 | 🐛 14 | 🌐 Ruby | 📅 2026-09-06 —
-  graphing library built on top of [rmagick](https://github.com/rmagick/rmagick) ⭐ 731 | 🐛 4 | 🌐 C++ | 📅 2026-11-24.
+  graphing library built on top of [rmagick](https://github.com/rmagick/rmagick) ⭐ 731 | 🐛 4 | 🌐 C++ | 📅 2026-11-25.
 * [ruby-graphviz](https://github.com/glejeune/Ruby-Graphviz) ⭐ 613 | 🐛 40 | 🌐 Ruby | 📅 2025-03-16 <sup>\[[dep: Graphviz](#graphviz)]</sup>
 * [Vega](https://github.com/ankane/vega) ⭐ 303 | 🐛 0 | 🌐 Ruby | 📅 2026-05-11 —
   [Vega](https://vega.github.io/vega/) and [Vega-lite](https://vega.github.io/vega-lite/)
@@ -174,7 +174,7 @@ Comprehensive tools for Data Visualization.
 * <https://github.com/zverok/worldize> ⭐ 262 | 🐛 1 | 🌐 Ruby | 📅 2018-08-20
 * [nyaplot](https://github.com/domitry/nyaplot) ⭐ 222 | 🐛 38 | 🌐 Ruby | 📅 2016-06-24
 * [gnuplot](https://github.com/rdp/ruby_gnuplot/tree/master) ⭐ 218 | 🐛 17 | 🌐 Ruby | 📅 2019-12-20 <sup>\[[dep: gnuplot](#gnuplot)]</sup>
-* [mathematical](https://github.com/gjtorikian/mathematical) ⭐ 170 | 🐛 7 | 🌐 Ruby | 📅 2026-06-19 —
+* [mathematical](https://github.com/gjtorikian/mathematical) ⭐ 170 | 🐛 6 | 🌐 Ruby | 📅 2026-11-25 —
   PNG and MathML renderings for your equations.
 * [matplotlib](https://github.com/mrkn/matplotlib.rb) ⭐ 99 | 🐛 8 | 🌐 Ruby | 📅 2023-03-16 —
   Ruby based wrapper around [matplotlib](https://matplotlib.org/). <sup>\[[dep: matplotlib](#matplotlib)]</sup>
@@ -214,7 +214,7 @@ Comprehensive tools for Data Visualization.
 
 * [oj](https://github.com/ohler55/oj) ⭐ 3,228 | 🐛 17 | 🌐 C | 📅 2026-11-22 —
   High-speed JSON parser.
-* [ox](https://github.com/ohler55/ox) ⭐ 911 | 🐛 3 | 🌐 Ruby | 📅 2026-11-23 —
+* [ox](https://github.com/ohler55/ox) ⭐ 911 | 🐛 3 | 🌐 Ruby | 📅 2026-11-25 —
   Optimized for speed XML parser and object marshaller.
 * <https://github.com/fiksu/rcsv>
 * Markdown
@@ -229,7 +229,7 @@ Comprehensive tools for Data Visualization.
 
 ### Domain specific formats
 
-* [bolognese](https://github.com/datacite/bolognese) ⭐ 52 | 🐛 24 | 🌐 Ruby | 📅 2026-07-23 —
+* [bolognese](https://github.com/datacite/bolognese) ⭐ 53 | 🐛 24 | 🌐 Ruby | 📅 2026-07-23 —
   conversion tool for citation formats like BibTeX, RIS, or Crossref XML.
 * [inih](https://github.com/woodruffw/ruby-inih) ⭐ 7 | 🐛 0 | 🌐 C | 📅 2021-04-29 — fast C based INI parser for Ruby.
 * BibTeX
@@ -280,13 +280,13 @@ Please look at our extensive [Awesome ML with Ruby][ml-with-ruby] list.
 
 ## Related resources
 
-* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,747 | 🐛 1 | 📅 2026-11-13 -
+* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#data-visualization) ⭐ 14,749 | 🐛 1 | 📅 2026-11-13 -
   awesome curated list on all around Big Data.
-* [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,697 | 🐛 4 | 📅 2026-10-29
+* [Awesome Data Science with Python](https://github.com/r0f1/datascience) ⭐ 4,698 | 🐛 0 | 📅 2026-11-25
 * [Awesome Spark](https://github.com/awesome-spark/awesome-spark) ⭐ 1,903 | 🐛 25 | 🌐 Shell | 📅 2026-02-27 —
   awesome list on Apache Spark goodies.
 * <a name="symengine"></a>
-  [SymEngine](https://github.com/symengine/symengine) ⭐ 1,429 | 🐛 250 | 🌐 C++ | 📅 2026-11-13
+  [SymEngine](https://github.com/symengine/symengine) ⭐ 1,430 | 🐛 250 | 🌐 C++ | 📅 2026-11-13
 * <a name="imagemagic"></a>
   [ImageMagick](https://imagemagick.org/index.php)
 * <a name="gsl"></a>
@@ -333,4 +333,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
